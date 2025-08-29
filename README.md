@@ -4,3 +4,9 @@
 # Data
 - The dataset for this exercise is the cleaned dataset from the SQL data cleaning project which can be obtained [here](Cleaned%20dataset.csv)
 - The dataset has `9 Columns` and `1001 Rows`.
+
+# TOOLS
+- MySQL
+- Tableau Public
+
+# APPROACH
