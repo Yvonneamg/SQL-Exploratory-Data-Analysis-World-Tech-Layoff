@@ -1,0 +1,1001 @@
+country,CITY,company,total_laid_off,date,percentage_laid_off,industry,stage,funds_raised
+Finland,Helsinki,F-Secure,70.0,2023-10-25,,Security,Post-IPO,
+"United States","SF Bay Area","Included Health",,2022-07-25,6%,Healthcare,"Series E",$272
+Ireland,Dublin,&Open,9.0,2022-11-17,9%,Marketing,"Series A",$35
+Canada,Toronto,#Paid,19.0,2023-01-27,17%,Marketing,"Series B",$21
+"United States","Los Angeles","100 Thieves",12.0,2022-07-13,,Consumer,"Series C",$120
+"United States","SF Bay Area","10X Genomics",100.0,2022-08-04,8%,Healthcare,Post-IPO,$242
+India,Gurugram,"1K Kirana",600.0,2023-04-04,40%,Retail,"Series B",
+"United States","New York City",1stdibs,70.0,2020-04-02,17%,Retail,"Series D",$253
+"United States","SF Bay Area",23andMe,200.0,2024-11-11,40%,Healthcare,Post-IPO,$1100
+"United States","SF Bay Area",23andMe,71.0,2023-08-08,11%,Healthcare,Post-IPO,$1100
+"United States","SF Bay Area",23andMe,75.0,2023-06-09,9%,Healthcare,Post-IPO,$1100
+Brazil,"Sao Paulo",2TM,100.0,2022-09-01,15%,Crypto,Unknown,$250
+Brazil,"Sao Paulo",2TM,90.0,2022-06-01,12%,Crypto,Unknown,$250
+"United States","Washington D.C.",2U,,2022-07-28,20%,Education,Post-IPO,$426
+"United States","Washington D.C.",54gene,95.0,2022-08-29,30%,Healthcare,"Series B",$44
+Australia,Sydney,"5B Solar",,2022-06-03,25%,Energy,"Series A",$12
+"United States","SF Bay Area",6sense,150.0,2022-10-12,10%,Sales,"Series E",$426
+Canada,Saskatoon,7shifts,30.0,2023-09-15,7%,Food,"Series C",$131
+Canada,Saskatoon,7Shifts,68.0,2024-01-11,19%,Food,"Series C",$131
+"United States",Cincinnati,"80 Acres Farms",,2023-01-18,10%,Food,Unknown,$275
+"United States","SF Bay Area",8x8,155.0,2023-01-18,7%,Support,Post-IPO,$253
+"United States","SF Bay Area",8x8,200.0,2022-10-04,9%,Support,Post-IPO,$253
+"United States",Seattle,98point6,,2022-07-21,10%,Healthcare,"Series E",$247
+Brazil,"Sao Paulo",99,75.0,2022-09-20,2%,Transportation,Acquired,$244
+India,"New Delhi",Aakash,80.0,2024-09-18,,Education,Acquired,
+Cyprus,Nicosia,ABBYY,200.0,2024-10-01,,Data,Unknown,$6
+"United States","SF Bay Area",Abra,12.0,2022-06-30,5%,Crypto,"Series C",$106
+"United States",Portland,Absci,30.0,2023-09-05,15%,Healthcare,Post-IPO,$238
+Canada,Vancouver,Absci,40.0,2022-08-09,,Healthcare,Post-IPO,$237
+Canada,Vancouver,"Absolute Software",40.0,2023-04-06,5%,Security,Post-IPO,
+Sweden,Stockholm,Acast,70.0,2022-09-15,15%,Media,Post-IPO,$126
+India,Mumbai,Acko,45.0,2020-04-01,9%,Finance,Unknown,$143
+"United States",Portland,Acorns,50.0,2020-05-26,,Finance,Unknown,$207
+"United States",Boston,Actifio,54.0,2020-12-16,,Data,Acquired,$352
+"United States",Chicago,ActiveCampaign,,2022-10-03,15%,Marketing,"Series C",$360
+"United States","New York City",ActiveFence,22.0,2025-03-13,7%,Security,"Series B",$100
+India,Bengaluru,Actyv.ai,,2023-08-02,60%,Finance,Seed,$12
+"United States","Little Rock",Acxiom,130.0,2025-03-19,3%,Marketing,Post-IPO,
+Canada,Toronto,Ada,78.0,2022-09-20,16%,Support,"Series C",$190
+Germany,Berlin,"Ada Health",50.0,2022-10-17,,Healthcare,"Series B",$189
+Canada,Toronto,"Ada Support",36.0,2020-04-24,23%,Support,"Series B",$60
+"United States",Seattle,"Adaptive Biotechnologies",100.0,2022-03-08,12%,Healthcare,Post-IPO,$406
+India,Gurugram,Adda247,300.0,2023-10-14,,Education,"Series B",$61
+"United States","SF Bay Area",Addepar,20.0,2023-01-18,3%,Finance,"Series F",$491
+Germany,Berlin,Adjust,304.0,2024-11-22,,Marketing,Acquired,$256
+"United States","SF Bay Area",Adobe,100.0,2022-12-06,,Marketing,Post-IPO,$2
+"United States","Salt Lake City",AdRoll,210.0,2020-03-31,30%,Marketing,"Series C",$89
+"United States",Seattle,Advata,32.0,2022-10-28,21%,Healthcare,Acquired,
+"United States",Philadelphia,"Advisor Credit Exchange",,2025-01-14,100%,Finance,Unknown,$31
+"United States",Durham,Adwerx,40.0,2022-07-07,,Marketing,Unknown,$20
+"United States","SF Bay Area",AEye,46.0,2023-03-28,33%,Transportation,Post-IPO,$314
+"United States",Pittsburgh,Affirm,60.0,2024-02-21,,Finance,Post-IPO,$1500
+"United States","SF Bay Area",Affirm,,2022-11-03,1%,Finance,Post-IPO,$1500
+"United States","SF Bay Area",Affirm,500.0,2023-02-08,19%,Finance,Post-IPO,$1500
+Brazil,Brasilia,Afterverse,60.0,2022-06-03,20%,Consumer,Unknown,
+"United States",Denver,AgentSync,67.0,2023-07-19,24%,Finance,"Series B",$111
+Singapore,Singapore,Agoda,1500.0,2020-05-18,25%,Travel,Acquired,
+"United States","SF Bay Area",Ahead,44.0,2022-04-14,100%,Healthcare,Unknown,$9
+"United States","New York City",Air,,2020-09-16,16%,Marketing,"Series A",$18
+"United States","SF Bay Area",Airbnb,1900.0,2020-05-05,25%,Travel,"Private Equity",$5400
+"United States","SF Bay Area",Airbnb,30.0,2023-03-03,,Travel,Post-IPO,$6400
+Pakistan,Lahore,Airlift,,2022-05-25,31%,Logistics,"Series B",$109
+Pakistan,Lahore,Airlift,,2022-07-12,100%,Logistics,"Series B",$109
+India,Bengaluru,Airmeet,,2024-03-19,20%,Marketing,"Series B",$50
+India,Bengaluru,Airmeet,75.0,2023-05-25,30%,Marketing,"Series B",$50
+"United States","SF Bay Area",Airtable,237.0,2023-09-14,27%,Product,"Series F",$1400
+"United States","SF Bay Area",Airtable,254.0,2022-12-08,20%,Product,"Series F",$1400
+Denmark,Copenhagen,Airtame,15.0,2022-06-15,,Consumer,Unknown,$7
+Australia,Sydney,Airtasker,45.0,2023-04-27,20%,Retail,"Series C",$26
+"United States","New York City",Airtime,25.0,2025-06-04,43%,Consumer,"Series B",$33
+"United States","New York City",Airtime,30.0,2022-05-23,20%,Consumer,"Series B",$33
+Indonesia,Jakarta,"Airy Rooms",,2020-04-22,70%,Travel,Unknown,
+Indonesia,Jakarta,"Airy Rooms",,2020-05-07,100%,Travel,Unknown,
+Finland,Helsinki,Aiven,,2023-01-18,20%,Infrastructure,"Series D",$420
+Indonesia,Jakarta,Ajaib,67.0,2022-11-28,8%,Finance,Unknown,$245
+"United States",Boston,Akamai,250.0,2024-11-07,2%,Security,Post-IPO,$35
+"United States",Boston,Akamai,290.0,2023-05-09,3%,Security,Post-IPO,$35
+"United States",Boston,"Akili Interactive",,2024-04-30,46%,Healthcare,Post-IPO,$271
+"United States",Boston,"Akili Labs",,2023-09-13,40%,Healthcare,Post-IPO,$301
+"United States",Boston,"Akili Labs",46.0,2023-01-12,30%,Healthcare,Post-IPO,$301
+Indonesia,Jakarta,Akseleran,60.0,2023-07-27,,Finance,"Series A",$9
+India,Bengaluru,Akudo,,2023-09-20,100%,Finance,Seed,$4
+Indonesia,Jakarta,Akulaku,100.0,2020-04-15,,Finance,"Series D",$160
+Canada,Montreal,AlayaCare,80.0,2022-08-16,14%,Healthcare,"Series D",$293
+"United States","Los Angeles",Albert,20.0,2022-06-10,8%,Finance,"Series C",$175
+Israel,"Tel Aviv","Aleph Farms",30.0,2024-06-05,30%,Food,Unknown,$119
+Nigeria,Ibadan,Alerzo,100.0,2023-11-21,,Retail,"Series B",$16
+Nigeria,Ibadan,Alerzo,400.0,2023-03-06,,Retail,"Series B",$16
+Japan,Tokyo,"ALI Technologies",,2024-01-16,100%,Transportation,Unknown,
+China,Hangzhou,"Alibaba Cloud",,2023-05-24,7%,Data,Subsidiary,
+Brazil,"Sao Paulo",Alice,113.0,2022-12-09,16%,Healthcare,"Series C",$174
+Brazil,"Sao Paulo",Alice,63.0,2022-07-11,,Healthcare,"Series C",$174
+Russia,Moscow,"AliExpress Russia",400.0,2022-05-14,40%,Retail,Acquired,$60
+"United States","SF Bay Area",Allbirds,23.0,2022-07-28,,Retail,Post-IPO,$202
+"United States","New York City",Alma,,2024-10-02,9%,Healthcare,"Series D",$220
+"United States","New York City",AlphaSense,150.0,2024-11-27,8%,Other,"Series F",$1400
+"United States","Los Angeles",Alteryx,320.0,2023-04-27,11%,Data,Post-IPO,$613
+"United States","SF Bay Area","Alto Pharmacy",47.0,2020-09-29,6%,Healthcare,"Series D",$356
+"United States","SF Bay Area",Altruist,37.0,2025-01-07,10%,Finance,"Series E",$449
+"United States","New York City",Alza,,2025-01-13,100%,Finance,Seed,$7
+"United States",Seattle,Amazon,100.0,2025-05-14,,Retail,Post-IPO,$8100
+"United States",Seattle,Amazon,10000.0,2022-11-16,3%,Retail,Post-IPO,$108
+"United States",Seattle,Amazon,150.0,2022-10-28,,Retail,Post-IPO,$108
+"United States",Seattle,Amazon,180.0,2023-11-13,,Retail,Post-IPO,$108
+"United States",Seattle,Amazon,30.0,2024-01-18,,Retail,Post-IPO,$108
+"United States",Seattle,Amazon,400.0,2024-02-06,,Retail,Post-IPO,$108
+"United States",Seattle,Amazon,80.0,2023-07-13,,Retail,Post-IPO,$108
+"United States",Seattle,Amazon,8000.0,2023-01-04,2%,Retail,Post-IPO,$108
+"United States",Seattle,Amazon,9000.0,2023-03-20,,Retail,Post-IPO,$108
+"Hong Kong","Hong Kong","Amber Group",,2022-09-09,10%,Crypto,"Series B",$328
+Brazil,Blumenau,"Ambev Tech",50.0,2023-03-02,,Food,Acquired,
+"United States","SF Bay Area",AMD,1000.0,2024-11-13,4%,Hardware,Post-IPO,
+"United States","St. Louis",Amdocs,2000.0,2023-07-06,6%,Support,Post-IPO,
+"United States","St. Louis",Amdocs,700.0,2023-01-02,3%,Support,Post-IPO,
+"United States",Boston,"American Robotics",50.0,2023-01-17,65%,Other,Acquired,$92
+"United States","New York City",Amicole,,2025-07-17,100%,Retail,Seed,$5
+"United States",Chicago,Amount,,2022-06-27,18%,Finance,Unknown,$283
+"United States",Chicago,Amount,130.0,2023-02-27,25%,Finance,Unknown,$283
+"United States",Seattle,Amperity,,2024-09-12,13%,Marketing,"Series D",$187
+"United States",Seattle,Amperity,13.0,2022-08-20,3%,Marketing,"Series D",$187
+"United States",Seattle,Amperity,20.0,2024-01-25,,Marketing,"Series D",$187
+"United States",Seattle,Amplero,17.0,2020-03-29,100%,Marketing,"Series B",$25
+"United States","SF Bay Area",Amplitude,99.0,2023-04-05,13%,Data,Post-IPO,$311
+"United States","Los Angeles",Anagram,17.0,2020-04-03,,Healthcare,"Series A",$14
+"United States","SF Bay Area","Analog Devices",111.0,2023-12-13,,Manufacturing,Post-IPO,
+"United States","SF Bay Area",Anaplan,300.0,2023-06-21,,Other,Acquired,$300
+India,Mumbai,Anar,,2023-11-25,100%,Marketing,Seed,$6
+"United States",Lehi,Ancestry,81.0,2024-03-14,6%,Consumer,Post-IPO,$33
+"United States","SF Bay Area","Anchorage Digital",75.0,2023-03-14,20%,Crypto,"Series D",$487
+"United States","New York City",Andela,135.0,2020-05-05,10%,Recruiting,"Series D",$181
+Canada,Saskatoon,Andgo,9.0,2023-09-29,,HR,"Series A",$5
+"United States","SF Bay Area",AngelList,20.0,2020-03-31,,Recruiting,"Series B",$26
+Israel,"Tel Aviv",Anodot,15.0,2022-07-06,20%,Data,"Series C",$64
+Israel,"Tel Aviv",Anodot,35.0,2022-07-06,27%,Data,"Series C",$64
+India,Gurugram,"ANS Commerce",,2025-03-02,100%,Retail,Acquired,$2
+"United States","SF Bay Area",AnswerLab,,2023-03-30,17%,Marketing,Unknown,
+Israel,"Tel Aviv","Antidote Health",23.0,2022-10-23,38%,Healthcare,Unknown,$36
+Austria,Vienna,Anyline,,2023-03-29,25%,Other,"Series B",$37
+Israel,"Tel Aviv",Anywell,11.0,2022-08-14,,"Real Estate","Series A",$15
+"United States","SF Bay Area","Apartment List",29.0,2022-08-31,10%,"Real Estate","Series D",$169
+"United States","SF Bay Area",Apollo,,2022-12-15,15%,Product,"Series D",$183
+Canada,Vancouver,"Apollo Insurance",,2022-11-15,25%,Finance,"Series B",$11
+"United States","SF Bay Area","App Annie",80.0,2020-04-28,18%,Data,Unknown,$156
+"United States",Boston,Appcues,,2023-03-08,15%,Data,"Series B",$52
+"United States","Santa Barbara",AppFolio,149.0,2023-08-17,9%,"Real Estate",Post-IPO,$30
+"United States","Santa Barbara",AppFolio,62.0,2023-05-22,,"Real Estate",Post-IPO,$30
+"United States",Miami,AppGate,130.0,2022-07-21,22%,Security,Post-IPO,
+"United States",Miami,Appgate,34.0,2023-02-01,8%,Security,Post-IPO,
+"United States",Lexington,AppHarvest,,2023-07-24,100%,Food,Post-IPO,$692
+"United States","SF Bay Area",Apple,100.0,2024-08-27,,Hardware,Post-IPO,$1200
+"United States","SF Bay Area",Apple,614.0,2024-04-04,,Hardware,Post-IPO,$1200
+"United States","SF Bay Area",AppLovin,120.0,2024-11-13,,Marketing,Post-IPO,$1600
+"United States","SF Bay Area",AppLovin,300.0,2022-06-27,12%,Marketing,Post-IPO,$1600
+"United States","SF Bay Area",AppLovin,58.0,2024-10-15,,Marketing,Post-IPO,$1600
+"United States","SF Bay Area",AppLovin,61.0,2024-08-15,,Marketing,Post-IPO,$1600
+"United States","SF Bay Area",AppLovin,65.0,2024-10-03,,Marketing,Post-IPO,$1600
+"United States","SF Bay Area",AppLovin,89.0,2025-01-15,,Marketing,Post-IPO,$1600
+"United States","SF Bay Area",AppLovin,97.0,2025-04-16,,Marketing,Post-IPO,$1600
+Canada,Waterloo,ApplyBoard,,2024-09-19,4%,Education,"Series D",$483
+Canada,Waterloo,ApplyBoard,90.0,2022-11-28,6%,Education,"Series D",$483
+"United States","SF Bay Area",AppsFlyer,100.0,2025-02-04,7%,Data,Unknown,$293
+"United States","SF Bay Area",Appsmith,35.0,2023-09-22,25%,,"Series B",$51
+Poland,Krakow,Aptiv,250.0,2024-02-20,,Transportation,Post-IPO,$8
+India,Chennai,Aqgromalin,80.0,2022-06-20,30%,Food,Unknown,$12
+"United States",Boston,"Aqua Security",50.0,2024-07-17,10%,Security,"Series E",$325
+"United States",Boston,"Aqua Security",65.0,2022-12-05,10%,Security,"Series E",$265
+Israel,"Tel Aviv","Aqua Security",24.0,2020-04-01,9%,Security,"Series C",$100
+"United States","SF Bay Area",Arc,13.0,2022-07-20,,HR,Seed,$1
+"United States",Brisbane,"Arch Oncology",,2023-01-13,100%,Healthcare,"Series C",$155
+"United States","SF Bay Area",Archipelago,40.0,2023-08-01,30%,"Real Estate","Series B",$57
+Germany,Munich,"Argo AI",100.0,2020-06-29,,Transportation,Unknown,$3600
+"United States",Pittsburgh,"Argo AI",150.0,2022-07-07,5%,Transportation,Unknown,$3600
+"United States",Pittsburgh,"Argo AI",173.0,2022-10-26,,Transportation,Unknown,$3600
+"United States","SF Bay Area","Argo AI",259.0,2022-11-01,,Transportation,Unknown,$3600
+"United States","New York City",Argyle,20.0,2022-08-26,7%,Finance,"Series B",$78
+"United States",Austin,"Arkane Studios",96.0,2024-05-08,100%,Consumer,Unknown,
+China,Shanghai,"Arm Holdings",70.0,2023-12-18,,Hardware,Post-IPO,
+"United States","SF Bay Area",Armis,25.0,2022-12-08,4%,Security,"Private Equity",$537
+"United Kingdom",London,Arrival,,2023-10-05,25%,Transportation,Post-IPO,$629
+"United Kingdom",London,Arrival,,2025-03-10,100%,Transportation,Post-IPO,$629
+"United Kingdom",London,Arrival,,2022-07-13,30%,Transportation,Post-IPO,$629
+"United Kingdom",London,Arrival,800.0,2023-01-30,50%,Transportation,Post-IPO,$629
+"United States",Austin,"Arrive Logistics",75.0,2020-04-03,7%,Logistics,"Series B",$35
+Canada,Vancouver,Article,216.0,2022-08-04,17%,Retail,"Series B",
+"United States","New York City",Articulate,38.0,2023-02-02,,Education,"Series A",$1500
+"United States","SF Bay Area",Artifact,,2024-01-12,100%,Media,Unknown,
+Germany,Berlin,Artnight,26.0,2022-08-31,36%,Retail,Unknown,
+"United States","New York City",Artsy,35.0,2023-06-29,15%,Retail,"Series D",$100
+"United States","SF Bay Area",Asana,100.0,2025-02-04,,Other,Post-IPO,$453
+"United States","SF Bay Area",Asana,180.0,2022-11-15,9%,Other,Post-IPO,$453
+"United States","Los Angeles",Aspiration,170.0,2023-03-24,,Finance,Unknown,$250
+"United States","SF Bay Area",Aspire,23.0,2022-07-15,,Marketing,"Series A",$27
+"United States",Seattle,Assurance,112.0,2024-05-01,100%,Finance,Acquired,
+"United States","Salt Lake City",Assure,,2022-11-23,100%,Finance,Seed,$2
+India,Bengaluru,Astra,,2025-07-31,100%,Sales,Unknown,
+"United States","SF Bay Area",Astra,,2022-11-08,16%,Aerospace,Post-IPO,$300
+"United States","SF Bay Area",Astra,,2023-08-04,25%,Aerospace,Post-IPO,$300
+"United States","SF Bay Area",Astra,40.0,2020-04-05,25%,Aerospace,Unknown,$100
+"United States",Philadelphia,"Astrate Medical",,2024-02-05,100%,Healthcare,"Series A",$13
+"United States",Cincinnati,Astronomer,100.0,2023-04-13,40%,Data,"Series C",$282
+"United States",Cincinnati,Astronomer,76.0,2023-01-04,20%,Data,"Series C",$282
+"United States","SF Bay Area",At-Bay,27.0,2023-09-12,9%,Security,Unknown,$296
+Israel,"Tel Aviv",Atera,20.0,2024-11-03,6%,Other,"Series B",$102
+Canada,Calgary,Athennian,30.0,2023-07-05,,Legal,"Series B",$47
+"United States",Atlanta,"Atlanta Tech Village",,2020-04-02,50%,"Real Estate",Unknown,
+"United States",Chicago,Atlas,150.0,2023-08-23,30%,HR,"Series B",$220
+"United States","New York City","Atlas Obscura",15.0,2020-06-18,,Media,"Series B",$32
+Australia,Sydney,Atlassian,150.0,2025-07-30,,Other,Post-IPO,$210
+Australia,Sydney,Atlassian,500.0,2023-03-06,5%,Other,Post-IPO,$210
+"United States",Austin,Atmosphere,100.0,2024-05-15,,Other,"Series D",$214
+"United States","SF Bay Area",AtoB,32.0,2022-10-19,30%,Finance,"Series B",$177
+"United States",Seattle,Atsu,6.0,2020-04-10,100%,Infrastructure,Unknown,$1
+"United States","New York City",Attentive,,2023-01-05,15%,Marketing,"Series E",$863
+Israel,"Tel Aviv",AU10TIX,19.0,2023-01-31,9%,Security,Unknown,$80
+"United States","New York City",Audible,100.0,2024-01-11,5%,Media,Acquired,$14
+Israel,"Tel Aviv",AudioCodes,80.0,2023-05-09,6%,Other,Post-IPO,$91
+Israel,"Tel Aviv",AudioCodes,80.0,2023-07-13,6%,Other,Post-IPO,$91
+"United States","New York City",Augury,20.0,2023-01-04,5%,Manufacturing,"Series E",$274
+"United States","New York City",Augury,70.0,2023-08-02,18%,Manufacturing,"Series E",$274
+"United States",Boston,Aura,70.0,2022-06-23,9%,Security,"Series F",$500
+"United States","SF Bay Area","Aura Financial",,2021-01-11,100%,Finance,Unknown,$584
+"United States",Pittsburgh,Aurora,,2024-01-24,3%,Transportation,Post-IPO,$3700
+"United States","SF Bay Area","Aurora Solar",111.0,2024-01-30,20%,Energy,"Series D",$523
+"United States","SF Bay Area","Aurora Solar",58.0,2025-01-16,,Energy,"Series D",$523
+"United States","SF Bay Area",Autodesk,1350.0,2025-02-27,9%,Other,Post-IPO,
+"United States","SF Bay Area",Autodesk,250.0,2023-02-02,2%,Other,Post-IPO,
+"United States","Los Angeles",Autograph,30.0,2023-05-04,33%,Crypto,"Series B",$205
+"United States","SF Bay Area",Automatic,,2020-05-01,100%,Transportation,Acquired,$24
+"United States","SF Bay Area","Automation Anywhere",260.0,2020-04-27,10%,Other,"Series B",$840
+"United States","SF Bay Area",Automattic,281.0,2025-04-02,16%,Other,"Series E",$986
+"United States",Boulder,Automox,,2022-04-18,11%,Infrastructure,"Series C",$152
+"United States","New York City","Ava Labs",,2023-11-06,12%,Crypto,Unknown,$640
+"United States",Minneapolis,"Avantage Entertainment",5.0,2020-04-03,20%,Media,Unknown,
+"United States","Los Angeles",AvantStay,144.0,2022-11-09,22%,Travel,"Private Equity",$686
+"United States","Los Angeles",AvantStay,37.0,2023-06-20,,Travel,"Private Equity",$686
+"United States","Los Angeles",AvantStay,80.0,2022-06-29,,Travel,Unknown,$811
+"United States",Phoenix,Avast,,2022-11-10,25%,Security,Unknown,
+"United States",Durham,Avaya,180.0,2024-08-01,3%,Other,Post-IPO,$700
+Canada,Kitchener,Avidbots,50.0,2023-03-14,14%,Hardware,"Series C",$106
+Israel,"Tel Aviv",Avo,500.0,2022-05-01,67%,Food,"Series B",$45
+Germany,Berlin,Avocargo,16.0,2023-04-06,100%,Transportation,Seed,
+"United States","New York City",Away,,2024-02-14,25%,Retail,"Series D",$181
+"United States","New York City",Away,22.0,2023-05-31,8%,Retail,"Series D",$181
+"United States","New York City",Away,60.0,2020-04-07,10%,Retail,"Series D",$181
+"United Arab Emirates",Dubai,Awok,,2020-09-02,100%,Retail,"Series A",$30
+"United States","Washington D.C.","Axios Media",50.0,2024-08-06,10%,Media,Acquired,$57
+Canada,Toronto,Aya,5.0,2020-11-19,25%,Finance,Seed,$3
+Indonesia,Jakarta,Ayoconnect,,2023-08-03,10%,Finance,"Series B",$43
+"United States","SF Bay Area",B8ta,250.0,2020-03-26,50%,Retail,"Series C",$88
+"United Kingdom",London,Babylon,100.0,2022-07-12,,Healthcare,Post-IPO,$1100
+"United Kingdom",London,"Babylon Health",94.0,2023-08-09,,Healthcare,Post-IPO,$1200
+France,Paris,"Back Market",93.0,2022-12-23,13%,Retail,"Series E",$1000
+"United States",Atlanta,Bakkt,,2022-12-08,15%,Crypto,Post-IPO,$932
+"United States",Atlanta,Bakkt,28.0,2024-05-03,,Crypto,Post-IPO,$932
+"United States",Providence,"Bally's Interactive",,2023-01-18,15%,Consumer,Post-IPO,$946
+"United States","St. Louis",Balto,30.0,2022-06-22,,Sales,"Series B",$51
+"United States","St. Louis",Balto,35.0,2022-12-12,,Sales,"Series B",$51
+"United States",Louisville,"Bamboo Health",52.0,2022-07-01,,Healthcare,Unknown,
+"United States","SF Bay Area",Bandcamp,58.0,2023-10-16,50%,Other,Acquired,
+Australia,Melbourne,Banxa,70.0,2022-06-27,30%,Crypto,Post-IPO,$13
+Australia,Sydney,Baraja,,2023-02-08,75%,Transportation,Unknown,$63
+Australia,Melbourne,Bardee,30.0,2023-08-03,,Food,Seed,$5
+"United States","New York City",Bark,,2023-07-13,8%,Retail,Post-IPO,$282
+"United States","New York City",Bark,126.0,2023-02-09,12%,Retail,Post-IPO,
+"United States",Chicago,"Basis Technologies",40.0,2023-02-21,4%,Marketing,"Series B",$52
+"United States","SF Bay Area",Baton,16.0,2022-06-29,25%,Transportation,"Series A",$13
+"United Kingdom",Bristol,Beam,200.0,2025-05-01,100%,Other,Unknown,
+"United States",Columbus,"Beam Benefits",31.0,2023-02-08,8%,Healthcare,"Series E",$168
+"United States",Columbus,"Beam Benefits",74.0,2024-01-10,,Healthcare,"Series E",$168
+"United Kingdom",London,Beamery,,2023-01-10,12%,HR,"Series D",$223
+"United Kingdom",London,Beamery,,2023-11-16,25%,HR,"Series D",$223
+India,Bengaluru,BeepKart,130.0,2024-10-08,40%,Retail,"Series A",$19
+Brazil,"Sao Paulo",BeeTech,30.0,2020-04-10,,Finance,"Series B",$14
+India,Gurugram,"Belora Paris",,2023-10-18,100%,Retail,Seed,
+Canada,Vancouver,Bench,450.0,2024-12-27,100%,Finance,"Series C",$109
+Canada,Vancouver,Bench,47.0,2020-03-27,10%,Finance,"Series B",$49
+"United States","SF Bay Area",Benchling,74.0,2023-04-21,9%,Other,"Series F",$411
+Canada,Toronto,BenchSci,70.0,2024-01-08,17%,Healthcare,"Series D",$164
+Canada,Calgary,Benevity,137.0,2023-01-18,14%,Other,Unknown,$69
+"United Kingdom",London,BenevolentAI,180.0,2023-05-25,,Healthcare,"Private Equity",$292
+"United States","New York City","Benitago Group",,2022-11-04,14%,Retail,"Series A",$380
+"United States","SF Bay Area","Berkeley Lights",,2022-08-09,12%,Healthcare,Post-IPO,$272
+Germany,Berlin,"Berlin Brands Group",100.0,2022-06-10,10%,Retail,Unknown,$1000
+"United States",Dallas,Bestow,41.0,2022-06-24,14%,Finance,"Series C",$137
+Denmark,Copenhagen,"Better Collective",300.0,2024-11-14,,Other,Unknown,
+"United States","SF Bay Area","Better Therapeutics",,2023-03-27,35%,Healthcare,Post-IPO,$143
+"United States","New York City",Better.com,3000.0,2022-03-08,33%,"Real Estate",Unknown,$905
+"United States","New York City",Better.com,900.0,2021-12-01,9%,"Real Estate",Unknown,$905
+Chile,Santiago,Betterfly,,2023-01-18,30%,Healthcare,"Series C",$204
+Chile,Santiago,Betterfly,30.0,2022-08-11,,Healthcare,"Series C",$204
+"United States","New York City",Betterment,28.0,2023-02-15,,Finance,"Series F",$435
+"United States","SF Bay Area",BetterUp,100.0,2023-08-02,16%,HR,"Series E",$567
+"United States",Boston,Bevi,30.0,2020-03-27,20%,Food,"Series C",$60
+"United States","Los Angeles","Beyond Meat",200.0,2022-10-14,19%,Food,Post-IPO,$122
+"United States","Los Angeles","Beyond Meat",40.0,2022-08-03,4%,Food,Post-IPO,$122
+"United States","Los Angeles","Beyond Meat",65.0,2023-11-02,8%,Food,Post-IPO,$122
+Israel,"Tel Aviv",BeyondMinds,65.0,2022-05-23,100%,Data,"Series A",$16
+India,Mumbai,BharatAgri,40.0,2023-01-15,43%,Food,"Series A",$21
+Nigeria,Lagos,"Big Cabal Media",,2023-08-04,19%,Media,Seed,$3
+"United States",Seattle,"Big Fish Games",250.0,2020-09-01,,Media,Acquired,$95
+"United States",Baltimore,BigBear.ai,,2022-09-08,7%,Data,Post-IPO,$200
+"United States",Austin,BigCommerce,,2023-11-08,7%,Retail,Post-IPO,$224
+"United States",Austin,BigCommerce,180.0,2022-12-15,13%,Retail,Post-IPO,$224
+"United States","SF Bay Area",BigPanda,40.0,2023-04-24,13%,Infrastructure,"Series E",$337
+China,Shanghai,Bilibili,,2022-12-27,30%,Media,Post-IPO,$3700
+"United States","SF Bay Area",Bill.com,,2023-12-05,15%,Finance,Post-IPO,$280
+"United States","Fort Collins",BillGO,80.0,2024-02-05,,Finance,"Series B",$119
+"Cayman Islands","Cayman Islands",Binance,1000.0,2023-07-14,,Crypto,Unknown,
+"United States","SF Bay Area",Binance.US,100.0,2023-09-12,33%,Crypto,Subsidiary,
+"United States",Boston,Biofourmis,120.0,2023-08-31,,Healthcare,"Series D",$464
+"United States","SF Bay Area",BioMarin,120.0,2022-10-07,4%,Healthcare,Post-IPO,$585
+Israel,Sderot,BionicHIVE,,2024-12-22,100%,Hardware,Unknown,
+"United States","Los Angeles",Bird,138.0,2022-06-07,23%,Transportation,Post-IPO,$783
+"United States","Los Angeles",Bird,406.0,2020-03-27,30%,Transportation,"Series D",$623
+"United States",Phoenix,"Bishop Fox",50.0,2023-05-02,13%,Security,"Series B",$146
+"United States","SF Bay Area",Bitfront,,2022-11-29,100%,Crypto,Unknown,
+"United States","SF Bay Area",BitGo,,2020-04-17,12%,Crypto,"Series B",$69
+Seychelles,Non-U.S.,BitMEX,,2022-11-02,30%,Crypto,Seed,$0
+Seychelles,Non-U.S.,BitMEX,75.0,2022-04-04,25%,Crypto,Seed,$0
+"United Arab Emirates",Dubai,BitOasis,9.0,2022-06-19,5%,Crypto,"Series B",$30
+Austria,Vienna,Bitpanda,270.0,2022-06-24,27%,Crypto,"Series C",$546
+Hungary,Budapest,Bitrise,,2022-09-14,14%,Infrastructure,"Series C",$83
+Israel,"Tel Aviv",BitSight,40.0,2023-02-26,,Security,Unknown,$401
+Mexico,"Mexico City",Bitso,100.0,2022-11-29,,Crypto,"Series C",$378
+Mexico,"Mexico City",Bitso,80.0,2022-05-26,11%,Crypto,"Series C",$378
+"United States",Seattle,BitTitan,70.0,2021-11-18,27%,Data,Acquired,$46
+"United States","SF Bay Area",BitTorrent,92.0,2023-01-20,,Infrastructure,Acquired,
+"United States",Seattle,Bittrex,80.0,2023-02-02,,Crypto,Unknown,
+"United States","SF Bay Area",Bitwise,900.0,2023-06-14,100%,Crypto,"Series B",$84
+India,Mumbai,Bizongo,140.0,2020-07-10,,Logistics,"Series C",$70
+India,Mumbai,Bizongo,50.0,2023-10-05,,Retail,"Series E",$315
+Australia,Sydney,Bizpay,,2022-05-04,30%,Finance,Unknown,$45
+"United States","New York City",Bizzabo,100.0,2022-12-01,37%,Marketing,"Series E",$194
+"United States","New York City",Bizzabo,120.0,2022-07-05,30%,Marketing,"Series E",$194
+China,Shenzen,"Black Shark",900.0,2023-01-13,,Hardware,Unknown,
+"United States",Charleston,Blackbaud,500.0,2023-02-14,14%,Other,Post-IPO,
+India,Bengaluru,BlackBuck,200.0,2020-04-17,,Logistics,"Series D",$293
+"United States","Los Angeles",BlackLine,95.0,2022-12-08,5%,Finance,"Private Equity",$220
+"United States","Los Angeles",BlackLine,95.0,2023-08-23,5%,Finance,Post-IPO,$220
+"United Kingdom",London,"Bleacher Report",20.0,2020-09-11,,Media,Acquired,$41
+"United States","SF Bay Area",Blend,100.0,2022-11-10,6%,Finance,Post-IPO,$665
+"United States","SF Bay Area",Blend,150.0,2023-08-09,19%,Finance,Post-IPO,$665
+"United States","SF Bay Area",Blend,200.0,2022-04-19,10%,Finance,Post-IPO,$665
+"United States","SF Bay Area",Blend,220.0,2022-08-15,12%,Finance,Post-IPO,$665
+"United States","SF Bay Area",Blend,340.0,2023-01-10,28%,Finance,Post-IPO,$665
+"United States",Baltimore,"Blink Charging",,2025-05-19,20%,Other,Post-IPO,$110
+India,Bengaluru,Blip,,2025-07-12,100%,Retail,Unknown,
+India,Bengaluru,BlissClub,21.0,2024-02-09,18%,Retail,"Series A",$20
+"United States","SF Bay Area",Block,1000.0,2024-01-30,10%,Finance,Post-IPO,$150
+"United States","SF Bay Area",Block,931.0,2025-03-25,8%,Finance,Post-IPO,$150
+"United Kingdom",London,Blockchain.com,110.0,2023-01-12,28%,Crypto,"Series D",$490
+"United Kingdom",London,Blockchain.com,150.0,2022-07-21,25%,Crypto,"Series D",$490
+"United States","New York City",BlockFi,,2022-11-28,100%,Crypto,"Series E",$1000
+"United States","New York City",BlockFi,250.0,2022-06-13,20%,Crypto,"Series E",$1000
+"United States","SF Bay Area",BloomTech,88.0,2022-12-01,50%,Education,Unknown,
+"United States","New York City","Blue Apron",,2022-12-08,10%,Food,Post-IPO,$352
+"United States","New York City","Blue Apron",,2023-07-19,20%,Food,Post-IPO,$422
+"United States",Seattle,"Blue Nile",119.0,2023-03-28,,Retail,Acquired,$62
+"United States",Seattle,"Blue Origin",1000.0,2025-02-13,10%,Aerospace,Unknown,$167
+"United States",Seattle,"Blue Origin",40.0,2023-10-09,,Aerospace,Unknown,$167
+"United States","SF Bay Area",Blueboard,,2024-03-15,100%,HR,"Series A",$16
+"United States","New York City",Blueground,130.0,2020-03-27,25%,"Real Estate","Series B",$77
+India,Bengaluru,Bluelearn,,2024-07-22,100%,Education,Seed,$4
+India,Bengaluru,Bluepad,,2023-04-13,100%,Media,Seed,
+"United States","SF Bay Area",BlueStacks,60.0,2022-07-20,,Other,"Series C",$48
+Israel,"Tel Aviv",Bluevine,100.0,2024-12-10,18%,Finance,Unknown,$769
+"United States","SF Bay Area","Blume Global",30.0,2020-03-30,10%,Logistics,Unknown,
+"United States",Denver,Bluprint,137.0,2020-05-26,100%,Education,Acquired,$108
+"United States",Philadelphia,"BM Technologies",,2023-01-30,25%,Finance,Post-IPO,
+Netherlands,Utrecht,Bol.com,300.0,2022-12-09,10%,Retail,Acquired,
+Nigeria,Lagos,Bolt,17.0,2023-02-21,,Transportation,"Series F",
+"United States","SF Bay Area",Bolt,,2023-12-14,29%,Finance,"Series E",$1300
+"United States","SF Bay Area",Bolt,240.0,2022-05-25,27%,Finance,"Series E",$1300
+"United States","SF Bay Area",Bolt,50.0,2023-01-24,10%,Finance,"Series E",$1300
+India,Bengaluru,Bolt.Earth,,2023-12-29,20%,Energy,"Series B",$24
+India,Bengaluru,Bolt.Earth,70.0,2024-04-06,40%,Energy,"Series B",$24
+Canada,Toronto,Bonsai,29.0,2022-04-26,34%,Retail,"Series A",$27
+Canada,Toronto,Bonsai,30.0,2022-06-20,55%,Retail,"Series A",$27
+"United States",Austin,Bonterra,140.0,2023-01-13,10%,Other,Unknown,
+"United States","Salt Lake City",BookClub,12.0,2022-05-31,25%,Education,"Series A",$26
+"United States",Norwalk,"Booking Holdings",60.0,2024-12-04,,Travel,Post-IPO,$2800
+Netherlands,Amsterdam,Booking.com,4375.0,2020-07-30,25%,Travel,Acquired,
+"United States","Grand Rapids",Booking.com,226.0,2022-11-01,,Travel,Acquired,
+India,Mumbai,BookMyShow,270.0,2020-05-28,18%,Consumer,Unknown,$224
+"United States","SF Bay Area",Booksy,200.0,2020-04-01,,Consumer,"Series B",$48
+Australia,Sydney,Booktopia,30.0,2023-01-23,,Retail,"Series A",$23
+"United States","New York City",Boost,15.0,2023-04-04,20%,Finance,"Series B",$37
+"United States","Los Angeles","Boosted Commerce",,2022-07-22,5%,Retail,"Series B",$137
+Sweden,Malmo,Boozt,,2025-01-13,10%,Retail,Post-IPO,$56
+Sweden,Malmo,Boozt,70.0,2022-06-09,5%,Retail,Post-IPO,$56
+Canada,Toronto,Borrowell,15.0,2020-04-06,20%,Finance,"Series B",$72
+"United States","SF Bay Area","Bossa Nova",,2020-11-02,50%,Retail,Unknown,$102
+"United States","SF Bay Area","Bossa Nova",61.0,2020-06-29,,Retail,Unknown,$102
+India,Bengaluru,Bounce,120.0,2020-03-19,,Transportation,"Series D",$214
+India,Bengaluru,Bounce,130.0,2020-06-29,22%,Transportation,"Series D",$214
+India,Bengaluru,Bounce,200.0,2021-02-22,40%,Transportation,"Series D",$214
+India,Bengaluru,Bounce,40.0,2023-01-06,5%,Transportation,"Series D",$214
+"United States","New York City",BounceX,77.0,2020-04-06,20%,Marketing,"Series B",$75
+"United States","New York City","Bowery Farming",,2024-11-01,100%,Food,Unknown,$626
+"United States","New York City",Boxed,32.0,2023-03-15,25%,Retail,Post-IPO,$365
+"United States","SF Bay Area",Braid,,2023-10-09,100%,Finance,Unknown,
+Poland,Krakow,Brainly,,2023-05-24,30%,Education,"Series D",$148
+Poland,Krakow,Brainly,25.0,2022-11-06,,Education,"Series D",$148
+"United States",Columbus,Branch,186.0,2023-06-08,,Finance,"Series C",$229
+"United States",Columbus,Branch,85.0,2024-01-09,,Finance,"Series C",$229
+"United States","New York City",Branch,3.0,2020-06-11,27%,Retail,Seed,$2
+"United States","SF Bay Area","Branch Metrics",100.0,2020-04-07,20%,Marketing,"Series E",$367
+"United States","SF Bay Area",Branch.io,100.0,2024-08-09,,Marketing,"Series F",$667
+"United States","SF Bay Area",Brave,,2023-10-06,9%,Consumer,"Series B",$42
+"United States","SF Bay Area",Brave,27.0,2024-08-28,14%,Consumer,"Series B",$42
+"United States",Portland,"Brave Care",,2024-12-31,100%,Healthcare,"Series B",$43
+"United States",Portland,"Brave Care",40.0,2022-09-06,33%,Healthcare,"Series B",$42
+India,"New Delhi",Breathe,50.0,2022-06-14,33%,Healthcare,"Series A",$6
+Canada,Montreal,Breather,120.0,2020-12-16,80%,"Real Estate","Series D",$131
+"United States","SF Bay Area",Brex,136.0,2022-10-11,11%,Finance,"Series D",$1500
+"United States","SF Bay Area",Brex,282.0,2024-01-23,20%,Finance,"Series D",$1500
+"United States","SF Bay Area",Brex,62.0,2020-05-29,15%,Finance,"Series C",$732
+"United States",Nashville,"Bridge Connector",154.0,2020-11-17,100%,Healthcare,"Series B",$45
+Canada,Waterloo,Bridgit,13.0,2022-12-06,13%,Construction,"Series B",$36
+Israel,"SF Bay Area","Bright Machines",30.0,2022-06-28,8%,Data,Unknown,$250
+India,Bengaluru,"Bright Money",100.0,2022-07-15,50%,Finance,"Series A",$31
+"United States",Boston,Brightcove,198.0,2025-03-19,33%,Marketing,Acquired,$145
+"United States",Boston,Brightcove,70.0,2023-05-03,10%,Marketing,Post-IPO,$145
+Australia,Sydney,Brighte,30.0,2022-06-20,15%,Energy,"Series C",$145
+Australia,Sydney,Brighte,58.0,2022-09-09,,Energy,"Series C",$145
+"United States","SF Bay Area",Brightline,,2022-11-01,20%,Healthcare,"Series C",$212
+"United States","SF Bay Area",Brightline,,2023-05-03,20%,Healthcare,"Series C",$212
+"United States","SF Bay Area",Brilliant,,2024-05-08,100%,Hardware,"Series B",$64
+Israel,"Tel Aviv",Bringg,10.0,2020-04-21,10%,Logistics,"Series D",$84
+"United Kingdom",London,Britishvolt,206.0,2023-01-17,100%,Transportation,Unknown,$2400
+Canada,Toronto,Briza,26.0,2022-12-20,40%,Finance,"Series A",$10
+Israel,"Tel Aviv",Brodmann17,,2022-12-09,100%,Other,"Series A",$25
+Germany,Berlin,Bryter,100.0,2022-07-13,30%,Product,"Series B",$89
+Argentina,"Buenos Aires",Buenbit,80.0,2022-05-23,45%,Crypto,"Series A",$11
+"United States","Los Angeles",Builder,39.0,2020-06-04,14%,Product,"Series A",$29
+"United Kingdom",London,Builder.ai,,2025-05-20,100%,AI,"Series D",$445
+"United States",Omaha,Buildertrend,,2023-11-17,16%,Construction,Unknown,
+"United States",Chicago,"Built In",28.0,2020-04-10,,Recruiting,"Series C",$29
+"United States",Chicago,"Built In",50.0,2022-10-05,25%,Recruiting,"Series C",$29
+"United States",Nashville,"Built Technologies copy",,2023-02-03,8%,Construction,Unknown,$313
+"United States",Boston,Bullhorn,100.0,2020-04-30,,Sales,Acquired,$32
+"United States",Boston,Bullhorn,140.0,2023-10-19,9%,Sales,Acquired,$32
+"Hong Kong","Hong Kong",Bullish,30.0,2022-07-05,8%,Crypto,Unknown,$300
+"United States",Austin,Bumble,240.0,2025-06-25,30%,Consumer,Post-IPO,$313
+"United States",Austin,Bumble,350.0,2024-02-27,30%,Consumer,Post-IPO,$313
+Nigeria,Lagos,"Bundle Africa",,2023-07-21,100%,Crypto,Seed,$1
+"United States","SF Bay Area",Bungalow,70.0,2022-06-22,,"Real Estate","Series C",$171
+"United States",Seattle,Bungie,220.0,2024-07-31,17%,Consumer,Acquired,$100
+"United States","New York City",Bunnii,,2023-06-06,100%,Healthcare,Unknown,
+Canada,Montreal,BusBud,23.0,2020-04-06,32%,Transportation,"Series B",$21
+Brazil,"Sao Paulo",Buser,160.0,2022-12-08,30%,Transportation,"Series C",$138
+"United States","New York City","Business Insider",,2024-01-25,8%,Media,Acquired,$56
+"United States","New York City","Business Insider",,2025-05-29,20%,Media,Acquired,$56
+"United States","New York City","Bustle Digital Group",,2023-02-01,8%,Media,"Series E",$80
+"United States","New York City","Bustle Digital Group",19.0,2020-04-03,,Media,"Series E",$80
+"United States","New York City","Bustle Digital Group",24.0,2020-04-03,8%,Media,"Series E",$80
+"United States","New York City","Butler Hospitality",1000.0,2022-07-08,100%,Food,"Series B",$50
+"United States",Boston,"Butterfly Network",,2023-01-04,25%,Healthcare,Post-IPO,$530
+"United States","New Haven","Butterfly Network",,2022-08-02,10%,Healthcare,Post-IPO,$530
+"United States",Boston,"Butterfly Network copy",,2023-07-11,25%,Healthcare,Post-IPO,$530
+"United States","New York City",Button,48.0,2020-04-08,35%,Marketing,"Series C",$64
+"United States","SF Bay Area","Buy.com / Rakuten",87.0,2020-07-30,100%,Retail,Acquired,$42
+"United States","New York City",Buzzer,,2022-06-20,20%,Media,Unknown,$32
+"United States","New York City",Buzzer,,2023-06-30,100%,Consumer,"Series A",$24
+"United States","New York City",BuzzFeed,,2024-02-21,16%,Media,Post-IPO,$696
+"United States","New York City",BuzzFeed,180.0,2022-12-06,12%,Media,Post-IPO,$696
+"United States","New York City",BuzzFeed,180.0,2023-04-20,15%,Media,Post-IPO,$696
+"United States","San Diego",BVAccel,25.0,2020-04-08,25%,Marketing,Unknown,
+Singapore,Singapore,Bybit,,2022-12-03,30%,Crypto,Unknown,
+Singapore,Singapore,Bybit,600.0,2022-06-20,30%,Crypto,Unknown,
+India,Bengaluru,Byju's,1000.0,2023-06-07,,Education,"Private Equity",$5500
+India,Bengaluru,Byju's,1500.0,2023-02-02,,Education,"Private Equity",$5500
+India,Bengaluru,Byju's,2500.0,2022-10-12,5%,Education,"Private Equity",$5500
+India,Bengaluru,Byju's,500.0,2024-04-02,3%,Education,"Private Equity",$5500
+Indonesia,Jakarta,Bytedance,450.0,2024-06-12,,Consumer,Unknown,$9400
+Indonesia,Jakarta,Bytedance,500.0,2024-10-11,,Consumer,Unknown,$9400
+India,Mumbai,Bytedance,1800.0,2021-01-27,,Consumer,Unknown,$7400
+China,Shanghai,Bytedance,,2023-01-03,10%,Consumer,Unknown,$9400
+China,Shanghai,Bytedance,1000.0,2023-11-27,,Consumer,Unknown,$9400
+China,Shanghai,Bytedance,150.0,2022-06-17,,Consumer,Unknown,$9400
+China,Shanghai,Bytedance,1800.0,2021-08-05,,Consumer,Unknown,$9400
+"United States","Kansas City",C2FO,16.0,2024-06-18,,Finance,"Series H",$537
+"United States","Kansas City",C2FO,20.0,2022-12-09,2%,Finance,"Series H",$537
+"United States","Kansas City",C2FO,80.0,2023-10-16,3%,Finance,"Series H",$537
+Brazil,"Sao Paulo","C6 Bank",60.0,2020-04-06,6%,Finance,Unknown,
+Spain,Madrid,Cabify,29.0,2024-05-02,,Transportation,Unknown,$601
+"United States","SF Bay Area",Cabin,,2020-03-23,20%,Travel,Seed,$3
+"United States","New York City",Cadre,28.0,2020-05-11,25%,"Real Estate","Series C",$133
+Sweden,Stockholm,"Cake Bikes",,2024-02-02,100%,Transportation,Unknown,$74
+Singapore,Singapore,"Cake Group",50.0,2023-11-14,30%,Crypto,Unknown,
+"United States",Atlanta,Calendly,60.0,2023-07-26,10%,Other,"Series B",$351
+"United States",Atlanta,Calendly,70.0,2024-12-11,13%,Other,"Series B",$351
+"United States","New York City",Calibrate,,2023-04-14,18%,Healthcare,"Series B",$127
+"United States","New York City",Calibrate,156.0,2022-07-08,24%,Healthcare,"Series B",$127
+"United States","SF Bay Area",Caliva,20.0,2020-03-30,,Retail,"Series A",$75
+"United States","SF Bay Area",Caliva,54.0,2023-08-08,,Retail,"Series B",$75
+"United States","SF Bay Area","Callisto Media",,2022-10-25,35%,Media,"Series D",
+"United States","SF Bay Area","Callisto Media",140.0,2022-07-21,35%,Media,"Series D",
+"United States","SF Bay Area",Calm,90.0,2022-08-11,20%,Healthcare,"Series C",$218
+"United States",Chicago,Cameo,80.0,2022-11-09,,Consumer,Unknown,$165
+"United States",Chicago,Cameo,80.0,2023-07-18,,Consumer,Unknown,$165
+"United States",Chicago,Cameo,87.0,2022-05-04,25%,Consumer,Unknown,$165
+India,Gurugram,"Camp K12",,2023-01-23,70%,Education,"Series A",$16
+"United States","SF Bay Area",Cana,,2023-05-13,100%,Food,Unknown,$30
+"United States","New York City","Candy Digital",30.0,2023-06-29,,Crypto,"Series A",$138
+"United States","New York City","Candy Digital",33.0,2022-11-28,33%,Crypto,"Series A",$100
+"United States","Los Angeles",Canoo,20.0,2024-12-11,,Transportation,Post-IPO,$300
+"United States","Los Angeles",Canoo,58.0,2022-07-01,6%,Transportation,Post-IPO,$300
+Australia,Sydney,Canva,10.0,2025-04-02,,Consumer,Unknown,$2500
+"United States","Washington D.C.","Capital One",1100.0,2023-01-19,,Finance,Post-IPO,
+"United States","New York City",Capitolis,,2022-11-18,25%,Finance,"Series D",$281
+"United States","New York City",Capitolis,37.0,2022-11-17,25%,Finance,"Series D",$281
+"United States","New York City",Capsule,,2022-07-19,13%,Healthcare,"Series D",$570
+India,Bengaluru,"Captain Fresh",120.0,2023-01-15,,Food,"Series C",$126
+"United States","SF Bay Area",Captiv8,8.0,2023-08-24,3%,Marketing,Unknown,$4
+"United States","SF Bay Area",CaptivateIQ,31.0,2022-11-15,10%,Sales,"Series C",$164
+"United States",Atlanta,CapWay,,2024-10-17,100%,Finance,Unknown,
+"United States","SF Bay Area","Carbon Health",114.0,2023-10-09,5%,Healthcare,"Series D",$522
+"United States","SF Bay Area","Carbon Health",200.0,2023-01-06,,Healthcare,"Series D",$522
+"United States","SF Bay Area","Carbon Health",250.0,2022-06-02,8%,Healthcare,"Series D",$522
+"United States","SF Bay Area","Carbon Health",56.0,2024-02-23,,Healthcare,"Series D",$522
+India,Gurugram,CarDekho,200.0,2020-05-25,,Transportation,"Series D",$247
+"United States",Atlanta,Cardlytics,51.0,2022-11-14,,Marketing,Post-IPO,$212
+"United States",Boston,Care.com,81.0,2020-04-30,,Consumer,Acquired,$156
+"United States","New York City",Care/of,143.0,2024-06-15,100%,Healthcare,Acquired,$83
+"United Arab Emirates",Dubai,Careem,536.0,2020-05-04,31%,Transportation,Acquired,$771
+"United States","SF Bay Area","Career Karma",22.0,2023-01-12,,Education,"Series B",$51
+"United States","SF Bay Area","Career Karma",60.0,2022-07-28,33%,Education,"Series B",$51
+"United States",Chicago,"CareerBuilder + Monster",200.0,2024-10-10,15%,Recruiting,Acquired,
+"United States","Los Angeles",CareRev,100.0,2023-06-15,33%,Healthcare,"Series A",$51
+"United States",Boston,CarGurus,130.0,2020-04-16,13%,Transportation,Post-IPO,$1
+Singapore,Singapore,Carousell,110.0,2022-12-01,10%,Retail,"Private Equity",$372
+Singapore,Singapore,Carousell,76.0,2024-12-06,7%,Retail,Unknown,$375
+India,Gurugram,Cars24,120.0,2025-05-27,,Transportation,"Series G",$1300
+India,Gurugram,Cars24,200.0,2025-04-26,,Transportation,"Series G",$1300
+India,Gurugram,Cars24,600.0,2022-05-19,6%,Transportation,"Series G",$1300
+Indonesia,Jakarta,Cars24,100.0,2023-05-03,,Transportation,"Series G",$1300
+Malaysia,"Kuala Lumpur",Carsome,,2022-09-30,10%,Transportation,"Series E",$607
+"United States",Austin,Cart.com,25.0,2023-01-10,4%,Retail,Unknown,$383
+"United States","SF Bay Area",Carta,,2023-01-11,10%,HR,"Series G",$1100
+"United States","SF Bay Area",Carta,161.0,2020-04-15,16%,Finance,"Series E",$447
+Ireland,Dublin,CarTrawler,40.0,2024-09-19,10%,Transportation,Acquired,
+"United States",Phoenix,Carvana,1500.0,2022-11-18,8%,Transportation,Post-IPO,$1600
+"United States",Phoenix,Carvana,2500.0,2022-05-10,12%,Transportation,Post-IPO,$1600
+"United Kingdom",London,Carwow,70.0,2022-11-25,20%,Transportation,Unknown,$157
+Italy,Milan,Casavo,,2023-02-13,30%,"Real Estate",Unknown,$708
+India,Bengaluru,"Cashfree Payments",100.0,2023-01-12,,Finance,"Series B",$41
+"United States","New York City",Casper,78.0,2020-04-21,21%,Retail,Post-IPO,$339
+"United States","SF Bay Area","Castlight Health",,2020-05-04,13%,Healthcare,Post-IPO,$184
+"United States",Boston,Catalant,30.0,2020-03-30,,Other,"Series E",$110
+"United States","New York City",Catch,,2023-03-07,100%,Finance,"Series A",$18
+Australia,Melbourne,Catch.com.au,100.0,2023-02-06,,Retail,Acquired,$80
+Malta,Sliema,"Catena Media",29.0,2024-10-23,,Marketing,Unknown,
+"United Kingdom",London,Cazoo,750.0,2022-06-07,15%,Transportation,Post-IPO,$2000
+"United States","New York City",Cedar,,2022-07-07,24%,Healthcare,"Series D",$351
+Kenya,Nairobi,Cellulant,,2023-08-23,20%,Finance,"Series C",$54
+"United States","New York City",Celsius,150.0,2022-07-03,25%,Crypto,"Series B",$864
+"United States",Seattle,Center,8.0,2024-09-07,4%,Finance,"Series C",$102
+Australia,Sydney,Centr,22.0,2023-07-13,,Fitness,Unknown,
+"United States","SF Bay Area",Cerebral,285.0,2023-02-27,15%,Healthcare,"Series C",$462
+"United States","SF Bay Area",Cerebral,400.0,2022-10-24,20%,Healthcare,"Series C",$462
+"United States","Kansas City",Cerner,3000.0,2023-05-16,11%,Healthcare,Acquired,
+"United States","New York City",Chainalysis,150.0,2023-10-02,15%,Crypto,"Series F",$536
+"United States","New York City",Chainalysis,44.0,2023-02-01,5%,Crypto,"Series F",$536
+Netherlands,Amsterdam,"Change Invest",,2022-11-27,24%,Finance,Unknown,$22
+"United States","SF Bay Area",Change.org,,2022-07-28,19%,Other,"Series D",$72
+"United States","SF Bay Area",Character.ai,6.0,2024-08-29,5%,AI,"Series A",$150
+"United States","SF Bay Area",Chargebee,100.0,2023-09-11,10%,Finance,"Series H",$468
+"United States","SF Bay Area",Chargebee,142.0,2022-11-02,10%,Finance,"Series H",$468
+"United States","SF Bay Area",ChargePoint,,2024-01-10,12%,Manufacturing,Unknown,$1400
+"United States","SF Bay Area",ChargePoint,,2023-09-08,10%,Manufacturing,Unknown,$1400
+"United States","SF Bay Area",ChargePoint,250.0,2024-09-04,15%,Manufacturing,Unknown,$1400
+Israel,"Tel Aviv",Checkmarx,100.0,2022-11-02,10%,Security,"Series C",$92
+"United Kingdom",London,Checkout.com,100.0,2022-09-13,5%,Finance,"Series D",$1800
+"United Kingdom",London,Checkout.com,80.0,2023-12-18,,Finance,"Series D",$1800
+"United States","SF Bay Area",Checkr,382.0,2024-04-09,32%,HR,"Series D",$679
+"United States","SF Bay Area",Checkr,64.0,2020-07-23,12%,HR,"Series D",$309
+"United States","SF Bay Area",Chegg,248.0,2025-05-12,22%,Education,Post-IPO,$227
+"United States","SF Bay Area",Chegg,319.0,2024-11-12,21%,Education,Post-IPO,$227
+"United States","SF Bay Area",Chegg,441.0,2024-06-17,23%,Education,Post-IPO,$227
+"United States","SF Bay Area",Chegg,80.0,2023-06-12,4%,Education,Post-IPO,$227
+"United Kingdom",London,Chessable,29.0,2022-07-04,,Consumer,Acquired,$0
+"United States",Miami,Chewy,200.0,2023-11-14,,Retail,Post-IPO,$451
+"United States","SF Bay Area","Chia Network",26.0,2023-10-02,37%,Crypto,"Series D",$70
+"United States","New York City",Chief,43.0,2023-04-27,14%,Other,"Series B",$140
+"United States","New York City","Chili Piper",58.0,2022-11-17,,Sales,"Series B",$54
+"United States","SF Bay Area",Chime,156.0,2022-11-02,12%,Finance,"Series G",$2300
+India,Bengaluru,Chingari,,2023-08-24,50%,Media,Unknown,$88
+India,Bengaluru,Chingari,48.0,2023-06-19,20%,Media,Unknown,$88
+"United States","SF Bay Area","Chipper Cash",100.0,2023-02-17,33%,Finance,"Series C",$302
+"United States","SF Bay Area","Chipper Cash",15.0,2023-12-11,33%,Finance,"Series C",$302
+"United States","SF Bay Area","Chipper Cash",20.0,2024-03-15,,Finance,"Series C",$302
+"United States","SF Bay Area","Chipper Cash",50.0,2022-12-06,13%,Finance,"Series C",$302
+Singapore,Singapore,Chope,65.0,2022-12-20,24%,Food,"Series E",$50
+"United States","Los Angeles",ChowNow,100.0,2022-07-13,20%,Food,"Series C",$64
+"United States","Los Angeles",ChowNow,40.0,2022-12-14,10%,Food,"Series C",$64
+"United States","Los Angeles",ChowNow,60.0,2024-03-28,20%,Food,"Series C",$64
+Germany,Karlsruhe,Chrono24,110.0,2025-01-16,24%,Retail,"Series C",$205
+Germany,Karlsruhe,Chrono24,65.0,2023-01-30,13%,Retail,"Series C",$205
+Germany,Karlsruhe,Chrono24,80.0,2022-12-08,,Retail,"Series C",$205
+France,Paris,Cimpress,500.0,2023-03-23,,Retail,Post-IPO,$300
+Sweden,Stockholm,Cint,,2024-12-12,12%,Data,Post-IPO,$17
+Germany,Berlin,Circ,100.0,2020-06-02,,Transportation,Acquired,$55
+"United States",Boston,Circle,50.0,2024-12-05,6%,Crypto,"Private Equity",$1100
+"United States","SF Bay Area",CircleCI,,2022-12-07,17%,Product,"Series F",$315
+"United States","SF Bay Area",CircleCI,100.0,2024-01-31,,Product,"Series F",$315
+"United States",Columbus,"Circulo Health",,2022-06-16,50%,Healthcare,"Series A",$50
+Germany,Hamburg,"Circus Kitchens",35.0,2023-05-25,,Food,Seed,$12
+"United States","SF Bay Area",Cisco,350.0,2023-09-17,,Infrastructure,Post-IPO,$2
+"United States","SF Bay Area",Cisco,4100.0,2022-11-16,5%,Infrastructure,Post-IPO,$2
+"United States","SF Bay Area",Cisco,4250.0,2024-02-14,5%,Infrastructure,Post-IPO,$2
+"United States","SF Bay Area",Cisco,5600.0,2024-08-09,7%,Infrastructure,Post-IPO,$2
+"United States","New York City",Citizen,33.0,2023-01-11,,Consumer,"Series C",$133
+"United States","SF Bay Area","Citrine Informatics",22.0,2023-01-20,27%,Data,"Series C",$64
+"United States",Miami,Citrix,,2023-01-10,15%,Infrastructure,Acquired,$20
+"United States",Miami,Citrix,1000.0,2024-01-10,12%,Infrastructure,Acquired,$20
+"United States","New York City","Cityblock Health",155.0,2023-06-08,12%,Healthcare,"Series D",$891
+India,Gurugram,CityMall,191.0,2022-06-19,30%,Retail,"Series C",$112
+India,Gurugram,CityMall,90.0,2023-10-16,,Retail,"Series C",$112
+"United States","SF Bay Area",Clari,20.0,2023-02-06,,Sales,"Series F",$496
+"United States","SF Bay Area",Clari,45.0,2022-08-31,,Sales,"Series F",$496
+"United States","SF Bay Area","Clarify Health",15.0,2022-07-22,5%,Healthcare,"Series D",$328
+"United States","New York City",ClassPass,154.0,2020-04-02,22%,Fitness,"Series E",$549
+India,Bengaluru,Clear,145.0,2025-08-01,16%,Finance,"Series C",$140
+India,Bengaluru,Clear,190.0,2022-09-16,20%,Finance,"Series C",$140
+"United States",Reno,"Clear Capital",250.0,2023-01-25,25%,"Real Estate",Unknown,
+"United States",Reno,"Clear Capital",378.0,2022-10-14,27%,"Real Estate",Unknown,
+Canada,Toronto,Clearbanc,17.0,2020-04-13,8%,Finance,"Series B",$119
+Canada,Toronto,Clearco,125.0,2022-07-29,25%,Finance,"Series C",$681
+Canada,Toronto,ClearCo,50.0,2023-01-16,30%,Finance,"Series C",$698
+Canada,Toronto,Clearco,60.0,2022-06-06,,Finance,"Series C",$681
+"United States",Chicago,Clearcover,,2023-09-01,28%,Finance,"Series D",$304
+"United States",Chicago,Clearcover,81.0,2023-04-17,15%,Finance,"Series D",$304
+India,Mumbai,CleverTap,60.0,2020-04-16,20%,Marketing,"Series C",$76
+"United States","San Diego",ClickUp,60.0,2022-05-23,7%,Other,"Series C",$537
+"United States","San Diego",ClickUp,90.0,2023-06-28,10%,Other,"Series C",$537
+Switzerland,Zurich,Climeworks,106.0,2025-05-21,22%,Energy,"Private Equity",$734
+"United States","Ann Arbor",Clinc,40.0,2020-04-09,32%,Support,"Series B",$59
+"United States",Dallas,Clockwork,,2023-08-28,100%,Crypto,Seed,$4
+Kenya,Nairobi,CloudFactory,,2022-11-09,12%,Data,"Private Equity",$78
+"United States","SF Bay Area",Cloudflare,40.0,2024-01-11,,Security,Post-IPO,$332
+"United States","SF Bay Area",Cloudinary,40.0,2022-11-14,8%,Media,Unknown,$100
+"United States","SF Bay Area",Clubhouse,,2023-04-27,50%,Consumer,"Series C",$110
+Germany,Berlin,Clue,31.0,2023-01-18,31%,Healthcare,Unknown,$47
+Canada,Toronto,Clutch,150.0,2023-01-17,,Transportation,Unknown,$253
+Canada,Toronto,Clutch,76.0,2022-06-29,22%,Transportation,"Series B",$153
+"United States","Los Angeles",Clutter,,2020-03-25,30%,Consumer,"Series D",$296
+"United States","New York City",Clyde,22.0,2022-04-25,,Marketing,"Series B",$58
+"United States","SF Bay Area",CNET,12.0,2023-03-02,10%,Media,Acquired,$20
+Germany,Berlin,CoachHub,,2023-01-24,10%,HR,"Series C",$332
+Germany,Berlin,CoachHub,,2023-06-01,10%,HR,"Series C",$332
+"United States",Minneapolis,Code42,,2022-11-07,15%,Security,Unknown,$137
+"United States",Minneapolis,Code42,25.0,2020-04-09,5%,Data,"Series B",$138
+"United Kingdom",Edinburgh,CodeClan,57.0,2023-08-04,100%,Education,Seed,
+"United States","SF Bay Area",CodeCombat,8.0,2020-10-23,,Education,"Series A",$8
+India,Bengaluru,CodeParrot,,2025-07-17,100%,Product,Seed,
+"United States","SF Bay Area",CodeSee,,2024-02-15,100%,Data,Seed,$10
+"United States","SF Bay Area",Codexis,,2022-11-29,18%,Healthcare,Post-IPO,$162
+"United States",Seattle,"Coding Dojo",7.0,2020-04-02,7%,Education,Unknown,$2
+"United States",Boston,Cogito,24.0,2020-04-06,14%,Support,"Series C",$92
+India,"New Delhi",Cogito,177.0,2023-04-29,,Data,Unknown,
+Israel,"Tel Aviv",Cognyte,100.0,2022-12-02,5%,Security,Unknown,
+Canada,Toronto,Cohere,20.0,2024-07-23,5%,AI,"Series D",$935
+"United States","SF Bay Area",Coherent,108.0,2023-03-16,,Manufacturing,Post-IPO,
+"United States","SF Bay Area",Coherent,196.0,2023-06-06,,Manufacturing,Post-IPO,
+Israel,"Tel Aviv","Coho AI",,2025-04-06,100%,Sales,Seed,$8
+"United States","SF Bay Area",Coinbase,1100.0,2022-06-14,18%,Crypto,Post-IPO,$549
+"United States","SF Bay Area",Coinbase,60.0,2022-11-10,,Crypto,Post-IPO,$549
+"United States","SF Bay Area",Coinbase,950.0,2023-01-10,20%,Crypto,Post-IPO,$549
+India,Mumbai,CoinDCX,80.0,2023-01-11,,Crypto,"Series D",$244
+India,Mumbai,CoinDCX,,2023-08-22,12%,Crypto,"Series D",$247
+Australia,Melbourne,CoinJar,10.0,2022-11-29,20%,Crypto,Unknown,$1
+Canada,Toronto,Coinsquare,30.0,2022-07-27,24%,Crypto,Unknown,$98
+India,Bengaluru,CoinSwitch,44.0,2023-08-28,,Crypto,"Series C",$301
+"United States","SF Bay Area",CoinTracker,19.0,2023-01-28,,Crypto,"Series A",$101
+Australia,Sydney,CoLab,,2023-04-18,100%,Food,Seed,$3
+"United States",Detroit,Collage.com,,2022-10-09,100%,Retail,Acquired,
+"United States","SF Bay Area","Collective Health",54.0,2023-02-13,,Healthcare,"Series F",$719
+"United States","SF Bay Area","Color Health",300.0,2023-03-01,,Healthcare,"Series E",$482
+"United States",Boston,Colossus,97.0,2022-05-04,,Energy,"Series A",$41
+"United States",Albany,CommerceHub,371.0,2023-02-14,31%,Retail,Acquired,
+Germany,Munich,Commercetools,,2025-02-26,10%,Retail,"Series C",$119
+"United States","New York City",CommonBond,,2022-09-09,100%,Finance,"Series D",$125
+"United States","New York City",CommonBond,22.0,2022-05-13,,Finance,"Series D",$130
+"United States","Los Angeles",Community,40.0,2022-06-21,30%,Marketing,Unknown,$40
+"United States","New York City","Community Gaming",17.0,2023-04-14,17%,Crypto,"Series A",$18
+Switzerland,Zurich,Comparis,,2023-03-02,10%,Finance,Unknown,
+"United States","New York City",Compass,271.0,2022-09-20,,"Real Estate",Post-IPO,$1600
+"United States","New York City",Compass,375.0,2020-03-23,15%,"Real Estate","Series G",$1600
+"United States","New York City",Compass,450.0,2022-06-14,10%,"Real Estate",Post-IPO,$1600
+Israel,"Tel Aviv",Compete,11.0,2022-09-12,28%,HR,"Series A",$17
+"United States","Los Angeles",ComplYant,,2024-04-29,100%,Finance,Seed,$6
+"United States","SF Bay Area",Confluent,221.0,2023-01-26,8%,Data,Post-IPO,$455
+"United States",Denver,Conga,,2020-06-15,11%,Data,Acquired,$117
+Canada,Toronto,Connected,17.0,2020-04-08,10%,Product,Unknown,
+India,Gurugram,ConnectedH,,2023-08-02,100%,Healthcare,Seed,$2
+"United States","New York City",ConsenSys,100.0,2023-01-10,11%,Crypto,"Series D",$726
+"United States","New York City",ConsenSys,163.0,2024-10-29,20%,Crypto,"Series D",$726
+"United States","New York City",ConsenSys,47.0,2025-07-22,7%,Crypto,"Series D",$726
+"United States","New York City",ConsenSys,91.0,2020-04-20,14%,Crypto,Unknown,$10
+"United States","SF Bay Area",Consider.co,13.0,2020-03-26,100%,Other,Seed,$5
+Brazil,Joinville,ContaAzul,140.0,2020-04-17,35%,Education,"Series D",$37
+"United States","New York City",ContraFect,16.0,2022-08-15,37%,Healthcare,Post-IPO,$380
+"United States","New York City",Convene,150.0,2020-03-23,18%,"Real Estate","Series D",$280
+"United States",Seattle,Convoy,,2020-04-23,1%,Logistics,"Series D",$665
+"United States",Seattle,Convoy,30.0,2023-06-26,5%,Logistics,"Series E",$1100
+"United States",Seattle,Convoy,500.0,2023-10-19,100%,Logistics,"Series E",$1100
+"United States",Seattle,Convoy,90.0,2022-06-09,7%,Logistics,"Series E",$1100
+Japan,Tokyo,Cookpad,80.0,2023-03-10,,Consumer,Unknown,
+Kenya,Nairobi,Copia,1060.0,2024-06-06,,Retail,"Series C",$103
+Kenya,Nairobi,Copia,350.0,2023-07-26,25%,Retail,"Series C",$103
+"United Kingdom",London,Copper,,2023-03-22,15%,Crypto,"Series C",$281
+"United States","SF Bay Area",Copper,35.0,2020-04-02,,Marketing,"Series C",$102
+"United States",Austin,"Core Scientific",,2022-08-12,10%,Crypto,Post-IPO,$169
+Chile,Santiago,Cornershop,200.0,2024-04-10,,Food,Acquired,$32
+Chile,Santiago,Cornershop,250.0,2023-05-11,11%,Food,Acquired,$31
+"United States",Boston,"Corvus Insurance",,2023-01-24,14%,Finance,"Series C",$160
+"United States",Cincinnati,"Coterie Insurance",30.0,2022-05-25,20%,Finance,"Series B",$70
+"United States","SF Bay Area","Course Hero",,2023-12-05,25%,Education,"Series C",$477
+"United States","SF Bay Area","Course Hero",42.0,2023-03-16,15%,Education,"Series C",$477
+"United States","SF Bay Area",Coursera,150.0,2024-10-25,10%,Education,Post-IPO,$458
+Nigeria,Lagos,Cova,,2024-01-25,100%,Finance,Unknown,
+"United States",Columbus,CoverMyMeds,800.0,2023-03-29,,Healthcare,Acquired,$5
+"United States","SF Bay Area",Cowbell,28.0,2023-09-29,12%,Finance,"Series B",$123
+"United States",Boston,Crayon,20.0,2020-04-01,20%,Marketing,"Series A",$16
+"United States","SF Bay Area","Credit Sesame",22.0,2020-06-03,14%,Finance,"Series F",$120
+Brazil,"Sao Paulo",Creditas,,2020-04-08,6%,Finance,"Series D",$314
+India,Bengaluru,Crejo.Fun,170.0,2022-06-30,100%,Education,Seed,$3
+France,Paris,Criteo,140.0,2024-04-12,4%,Marketing,Post-IPO,$61
+"United States",Philadelphia,Crossbeam,17.0,2023-03-30,15%,Sales,"Series C",$116
+"United States",Portland,CrowdStreet,24.0,2020-06-01,22%,"Real Estate","Series C",$24
+"United States","SF Bay Area",CrowdStrike,500.0,2025-05-07,5%,Security,Post-IPO,$1200
+"United States","SF Bay Area",Cruise,1000.0,2025-02-04,50%,Transportation,Acquired,$15000
+"United States","SF Bay Area",Cruise,150.0,2020-05-14,8%,Transportation,Acquired,$5300
+"United States","SF Bay Area",Cruise,900.0,2023-12-14,24%,Transportation,Acquired,$15000
+Japan,Tokyo,Crunchyroll,85.0,2023-02-21,,Media,Unknown,$26
+Singapore,Singapore,Crypto.com,,2023-01-12,20%,Crypto,Unknown,
+Singapore,Singapore,Crypto.com,2000.0,2022-10-06,30%,Crypto,Unknown,$156
+Singapore,Singapore,Crypto.com,260.0,2022-06-10,5%,Crypto,Unknown,$156
+"United States",Austin,"CS Disco",,2023-05-11,8%,Legal,Post-IPO,$233
+"United States",Austin,"CS Disco",62.0,2023-01-19,9%,Legal,Post-IPO,$233
+Canada,Vancouver,CTO.ai,30.0,2020-03-20,50%,Infrastructure,Seed,$7
+"United States","San Diego",Cue,170.0,2022-06-27,,Healthcare,Post-IPO,$999
+"United States","San Diego",Cue,388.0,2023-01-05,,Healthcare,Post-IPO,$999
+"United States","San Diego","Cue Health",180.0,2024-05-22,100%,Healthcare,Post-IPO,$899
+"United States","San Diego","Cue Health",230.0,2024-05-03,49%,Healthcare,Post-IPO,$899
+"United States","San Diego","Cue Health",245.0,2024-02-02,30%,Healthcare,Post-IPO,$899
+"United States","San Diego","Cue Health",326.0,2023-04-28,30%,Healthcare,Post-IPO,$899
+"United States","San Diego","Cue Health",94.0,2024-01-05,13%,Healthcare,Post-IPO,$899
+India,Bengaluru,Cuemath,100.0,2023-05-08,,Education,Unknown,$121
+India,Bengaluru,Cuemath,100.0,2023-08-26,,Education,Unknown,$121
+India,Bengaluru,Cult.fit,100.0,2024-01-24,,Fitness,"Series F",$635
+Australia,Melbourne,"Culture Amp",36.0,2020-05-28,8%,HR,"Series E",$157
+Australia,Melbourne,"Culture Amp",90.0,2023-04-18,9%,HR,"Series F",$257
+"United Kingdom",London,"Culture Trip",95.0,2020-05-01,32%,Media,"Series B",$102
+Germany,Berlin,Curalie,,2023-12-14,100%,Healthcare,Unknown,
+"United States","Los Angeles",Curative,109.0,2022-09-20,,Healthcare,Seed,$8
+India,Bengaluru,Cure.fit,120.0,2024-01-23,,Fitness,"Series F",$625
+India,Bengaluru,Curefit,120.0,2020-07-17,,Fitness,"Series D",$405
+India,Bengaluru,Curefit,800.0,2020-05-04,16%,Fitness,"Series D",$404
+"United States","SF Bay Area",Curology,150.0,2022-03-16,,Healthcare,"Series D",$19
+"United Kingdom",London,Curve,65.0,2022-06-01,10%,Finance,"Series C",$182
+"United States","SF Bay Area",Cushion,,2025-01-30,100%,Finance,"Series A",$20
+"United States","Washington D.C.",Cvent,400.0,2020-05-21,10%,Marketing,Acquired,$146
+"United States",Boston,Cybereason,100.0,2022-06-01,6%,Security,"Series F",$750
+"United States",Boston,Cybereason,200.0,2022-10-26,17%,Security,"Series F",$750
+"United States","Los Angeles",CyberProof,,2024-07-10,7%,Security,Subsidiary,
+"United States","SF Bay Area",CyCognito,30.0,2022-12-08,15%,Security,"Series C",$153
+"United States",Atlanta,Cypress.io,11.0,2024-06-14,,Product,"Series B",$54
+"United States","Washington D.C.",Cyren,121.0,2023-02-01,,Security,Post-IPO,$161
+"United States",Boston,"Cyteir Therapeutics",,2023-01-20,70%,Healthcare,"Series C",$156
+Israel,"Tel Aviv",D-ID,22.0,2025-03-10,25%,AI,"Series B",$48
+"United States","SF Bay Area",D2iQ,,2023-12-08,100%,Infrastructure,"Series D",$247
+"United States","SF Bay Area",D2iQ,34.0,2020-04-03,13%,Infrastructure,"Series D",$247
+Canada,Waterloo,D2L,,2022-11-16,5%,Education,Post-IPO,$168
+"United States","New York City","Daily Harvest",,2022-08-08,15%,Food,"Series D",$120
+"United States","New York City","Daily Harvest",60.0,2022-02-10,20%,Food,"Series D",$120
+"United States","New York City",DailyPay,,2022-08-09,15%,Finance,Unknown,$814
+India,"New Delhi",Daloopa,40.0,2022-05-27,,Data,"Series A",$23
+Germany,Berlin,Dance,,2022-11-16,16%,Transportation,Unknown,$63
+Sweden,Stockholm,"Daniel Wellington",200.0,2022-06-09,15%,Retail,Unknown,
+Canada,Vancouver,"Dapper Labs",51.0,2023-07-12,,Crypto,Unknown,
+Canada,Vancouver,"Dapper Labs",,2023-02-23,20%,Crypto,"Series D",$607
+Canada,Vancouver,"Dapper Labs",134.0,2022-11-02,22%,Crypto,"Series D",$607
+Singapore,Singapore,Daraz,,2023-02-06,11%,Retail,Unknown,
+"United States","SF Bay Area",Dark,6.0,2020-06-23,100%,Product,Seed,$3
+"United States","New York City",Dash,,2023-10-06,100%,Finance,Unknown,$86
+Pakistan,Karachi,Dastgyr,,2024-01-12,80%,Retail,"Series A",$41
+"United States","New York City",Dataminr,150.0,2023-11-28,20%,AI,"Series F",$1100
+Israel,"Tel Aviv",DataRails,30.0,2022-12-05,18%,Finance,"Series B",$103
+"United States",Boston,DataRobot,,2022-08-23,26%,Data,"Series G",$1000
+"United States",Boston,DataRobot,200.0,2020-03-27,,Data,"Series E",$430
+"United States",Boston,DataRobot,70.0,2022-05-11,7%,Data,"Series G",$1000
+"United States","SF Bay Area",DataStax,15.0,2020-04-14,,Data,"Series E",$190
+"United States","SF Bay Area",Datera,,2020-05-18,10%,Infrastructure,"Series C",$63
+"United States","SF Bay Area",Datree,,2023-07-27,100%,Other,Seed,$11
+Canada,Toronto,Dayforce,,2025-02-26,5%,HR,Post-IPO,$40
+"United States","Los Angeles",Daylight,,2023-05-22,100%,Finance,"Series A",$20
+"United States","SF Bay Area",DayTwo,,2024-08-13,100%,Healthcare,"Series B",$90
+"United Kingdom",London,Dazn,50.0,2022-05-26,2%,Consumer,Unknown,
+"United States",Philadelphia,"dbt Labs",,2023-05-18,15%,Data,"Series D",$414
+"United States","New York City",Deadspin,11.0,2024-03-11,100%,Media,Acquired,
+India,Bengaluru,DealShare,100.0,2023-01-27,6%,Retail,"Series E",$390
+India,Bengaluru,DealShare,130.0,2023-09-21,,Retail,"Series E",$390
+Israel,"Tel Aviv",Dealtale,70.0,2023-08-09,100%,Sales,Acquired,$2
+"United States","New York City","Deep Instict",46.0,2023-07-25,15%,Security,Unknown,$322
+"United States","New York City","Deep Instinct",,2022-06-06,10%,Security,"Series D",$259
+Israel,"Tel Aviv","Deep Instinct",20.0,2025-05-04,10%,Security,Unknown,$322
+"United States","SF Bay Area",Deepgram,20.0,2023-10-11,20%,AI,"Series B",$86
+Ireland,Dublin,DeepVerge,50.0,2023-07-12,100%,Healthcare,Post-IPO,$20
+"United States","Tampa Bay",Deepwatch,30.0,2023-07-13,7%,Security,"Series C",$256
+"United States",Boston,"Definitive Healthcare",55.0,2023-01-12,6%,Healthcare,Post-IPO,
+"United States","SF Bay Area",Degreed,,2022-06-29,15%,Education,"Series D",$411
+India,Patna,DeHaat,,2023-01-15,5%,Food,"Series E",$254
+"United States","SF Bay Area",Deliv,669.0,2020-05-13,100%,Retail,"Series C",$80
+"United Kingdom",London,Deliveroo,350.0,2023-02-09,9%,Food,Post-IPO,$1700
+"United Kingdom",London,Deliveroo,367.0,2020-04-28,15%,Food,"Series G",$1500
+Australia,Melbourne,"Deliveroo Australia",120.0,2022-11-15,100%,Food,Post-IPO,$1700
+Germany,Berlin,"Delivery Hero",100.0,2022-11-03,,Food,Post-IPO,$8300
+Germany,Berlin,"Delivery Hero",156.0,2023-01-30,4%,Food,Post-IPO,$9900
+Germany,Berlin,"Delivery Hero",200.0,2024-07-31,,Food,Post-IPO,$9900
+Germany,Berlin,"Delivery Hero",300.0,2021-12-22,,Food,Post-IPO,$8300
+"United States",Austin,Dell,6000.0,2024-03-25,5%,Hardware,Post-IPO,
+"United States",Austin,Dell,6650.0,2023-02-06,5%,Hardware,Post-IPO,
+"United States","SF Bay Area",Demandbase,27.0,2022-09-07,3%,Sales,"Series H",$143
+Australia,Sydney,Deputy,60.0,2020-05-04,30%,HR,"Series B",$106
+"United States","Santa Fe","Descartes Labs",12.0,2020-06-02,16%,Data,"Series B",$58
+"United States",Boston,"Desktop Metal",,2024-01-24,20%,Other,Post-IPO,$811
+"United States",Boston,"Desktop Metal",,2022-06-13,12%,Other,Post-IPO,$811
+Sweden,Stockholm,Detectify,30.0,2023-08-18,,Security,Unknown,$42
+"United States",Boston,Devo,,2022-11-21,15%,Security,"Series F",$481
+"United States",Memphis,"Dextrous Robotics",,2024-01-11,100%,Logistics,Unknown,
+"United States","New York City","DHI Group",53.0,2023-05-26,10%,Recruiting,Post-IPO,
+"United States",Sacramento,DialSource,5.0,2020-03-31,14%,Marketing,"Series B",$26
+"United States",Portland,Digimarc,90.0,2025-02-27,40%,Other,Post-IPO,$105
+"United States",Stamford,"Digital Currency Gruop",10.0,2022-11-02,13%,Crypto,Unknown,
+"United States",Minneapolis,"Digital River",122.0,2025-01-28,,Retail,"Private Equity",$50
+Australia,Brisbane,"Digital Surge",,2022-12-09,100%,Crypto,Unknown,
+"United States","New York City",DigitalOcean,200.0,2023-02-15,11%,Infrastructure,Post-IPO,$491
+"United States",Austin,DISCO,75.0,2020-03-27,,Legal,"Series E",$133
+"United States","SF Bay Area",Discord,170.0,2024-01-11,17%,Consumer,"Series H",$995
+"United States","SF Bay Area",Discord,37.0,2023-08-03,4%,Consumer,"Series H",$995
+"United States",Boston,Dispatch,,2020-04-17,38%,Other,"Series A",$18
+"United States",Denver,DispatchHealth,88.0,2024-01-29,,Healthcare,"Series E",$733
+"United States","Los Angeles","Divergent 3D",57.0,2020-04-24,36%,Transportation,"Series B",$88
+"United States","SF Bay Area","Divvy Homes",,2020-03-25,8%,"Real Estate","Series B",$180
+"United States","SF Bay Area","Divvy Homes",40.0,2022-09-27,12%,"Real Estate","Series B",$180
+"United States","SF Bay Area","Divvy Homes",94.0,2023-09-11,,"Real Estate","Series B",$180
+"United States",Davenport,divvyDOSE,62.0,2022-05-06,,Healthcare,Acquired,$0
+Brazil,"Sao Paulo",Dock,190.0,2022-11-07,12%,Finance,"Private Equity",$280
+"United States","SF Bay Area",Docker,,2024-10-29,10%,Infrastructure,"Series C",$436
+"United Kingdom",London,Docly,8.0,2020-08-19,80%,Healthcare,Seed,$16
+"United States","SF Bay Area",DocuSign,440.0,2024-02-06,6%,Sales,Post-IPO,$536
+"United States","SF Bay Area",DocuSign,671.0,2022-09-28,9%,Sales,Post-IPO,$536
+"United States","SF Bay Area",DocuSign,680.0,2023-02-16,10%,Sales,Post-IPO,$536
+"United States","SF Bay Area",Doma,250.0,2022-08-04,13%,Finance,Post-IPO,$679
+"United States","SF Bay Area",Doma,310.0,2022-05-10,15%,Finance,Post-IPO,$679
+"United States","SF Bay Area",Doma,515.0,2022-12-06,40%,Finance,Post-IPO,$679
+Spain,Madrid,Domestika,89.0,2023-03-31,45%,Education,"Series D",$130
+"United States","SF Bay Area",Domestika,150.0,2022-04-28,19%,Education,"Series D",$130
+"United States","SF Bay Area","Domino Data Lab",,2022-11-07,25%,Data,"Series F",$223
+"United States","New York City",Domio,,2020-11-18,50%,"Real Estate","Series B",$116
+"United States","New York City",Domio,,2020-03-31,30%,Travel,"Series B",$116
+"United States","Salt Lake City",Domo,,2023-11-30,7%,Data,Post-IPO,$689
+"United States","Salt Lake City",Domo,90.0,2020-04-09,10%,Data,Post-IPO,$689
+Canada,Vancouver,Dooly,12.0,2022-08-09,,Sales,"Series B",$102
+"United States","SF Bay Area",DoorDash,1250.0,2022-11-30,6%,Food,Post-IPO,$2500
+"United States","Los Angeles",dot.LA,,2023-06-12,100%,Media,Seed,$4
+"United Kingdom",London,Dotscience,10.0,2020-05-19,100%,Product,Unknown,
+"United Aran Emirates",Dubai,DoubleCloud,,2024-09-30,100%,Infrastructure,Unknown,
+India,Gurugram,Doubtnut,,2022-10-31,30%,Education,"Series B",$49
+"United States","SF Bay Area",Dover,23.0,2022-07-26,30%,Recruiting,"Series A",$22
+"United States","SF Bay Area",Doximity,100.0,2023-08-08,10%,Healthcare,Post-IPO,$82
+India,Bengaluru,Dozee,40.0,2024-09-02,,Healthcare,"Series A",$26
+"United States",Boston,DraftKings,140.0,2023-02-01,4%,Consumer,Post-IPO,$719
+"United States",Baltimore,Dragos,50.0,2023-06-06,9%,Security,"Series D",$364
+"United States","San Diego",Drata,40.0,2024-09-26,9%,Security,"Series C",$328
+"United States",Boston,Drift,100.0,2023-09-07,25%,Marketing,Acquired,$107
+"United States",Boston,Drift,59.0,2023-02-06,,Marketing,Acquired,$107
+"United States","Salt Lake City",Drip,20.0,2020-03-23,,Marketing,Acquired,$0
+"United States","SF Bay Area","Drip Capital",75.0,2023-04-14,20%,Finance,"Series C",$85
+"United States","Jersey City",DriveWealth,,2023-01-26,20%,Finance,"Series D",$550
+"United States",Boston,Drizly,100.0,2023-03-29,,Retail,Acquired,$119
+"United States",Boston,Drizly,168.0,2024-02-05,100%,Retail,Acquired,$119
+Canada,Toronto,Drop,24.0,2022-11-01,,Marketing,"Series B",$56
+"United States","SF Bay Area",Dropbox,315.0,2021-01-13,15%,Other,Post-IPO,$1700
+"United States","SF Bay Area",Dropbox,500.0,2023-04-27,16%,Other,Post-IPO,$1700
+"United States","SF Bay Area",Dropbox,527.0,2024-10-30,20%,Other,Post-IPO,$1700
+Germany,Berlin,Dropp,60.0,2023-02-14,100%,Retail,Unknown,$2
+"United States","Salt Lake City",DSCO,12.0,2020-04-03,,Retail,"Series A",$4
+"United States",Boston,"Duck Creek Technologies",,2023-07-12,9%,Finance,Acquired,$357
+"United States",Raleigh,"Dude Solutions",,2020-04-15,20%,Other,Acquired,$100
+India,Bengaluru,Dukaan,23.0,2022-10-31,,Retail,"Series A",$17
+India,Bengaluru,Dukaan,56.0,2023-03-15,30%,Retail,"Series A",$17
+India,Bengaluru,Dunzo,,2023-01-16,3%,Food,Unknown,$382
+India,Bengaluru,Dunzo,150.0,2024-08-31,75%,Food,Unknown,$458
+India,Bengaluru,Dunzo,150.0,2023-09-26,30%,Food,Unknown,$458
+India,Bengaluru,Dunzo,300.0,2023-04-05,30%,Food,Unknown,$382
+"United States",Bend,Dutchie,50.0,2022-06-06,7%,Other,"Series D",$603
+India,Bengaluru,"DUX Education",,2023-02-28,100%,Education,Unknown,
+"United States","Los Angeles",DwellWell,,2023-12-04,100%,"Real Estate",Seed,$6
+"United States","SF Bay Area",dYdX,,2024-10-29,35%,Crypto,"Series C",$87
+"United States","SF Bay Area","Dynamic Signal",35.0,2020-04-02,19%,HR,"Series E",$114
+"United States","SF Bay Area",Earnin,50.0,2020-04-01,20%,Finance,"Series C",$190
+Israel,"Tel Aviv",Earnix,30.0,2023-05-04,10%,Finance,Unknown,$100
+"United States",Nashville,"Earth Rides",,2023-01-19,100%,Transportation,Unknown,$2
+Norway,Sandnes,Easee,200.0,2023-08-14,57%,Energy,Unknown,
+"United States","New York City",EasyKnock,,2024-12-09,100%,"Real Estate","Series D",$440
+"United States","Salt Lake City",EasyPost,75.0,2020-03-11,,Logistics,"Series A",$12
+"United States","SF Bay Area",EasyPost,50.0,2020-04-13,25%,Logistics,"Series A",$12
+"United States","SF Bay Area","Eat Just",40.0,2023-02-24,,Food,Unknown,$465
+"United States","SF Bay Area","Eat Just",40.0,2023-09-22,,Food,Unknown,$465
+Singapore,Singapore,Eatsy,20.0,2020-08-08,100%,Food,Seed,$1
+"United States","SF Bay Area",Eaze,25.0,2022-06-01,,Consumer,"Series D",$202
+"United States","SF Bay Area",Eaze,500.0,2024-10-07,100%,Consumer,"Series D",$202
+Brazil,Curitiba,Ebanx,340.0,2022-06-21,20%,Finance,"Series B",$460
+Brazil,Curitiba,Ebanx,62.0,2020-05-27,8%,Finance,Unknown,$30
+"United States","SF Bay Area",eBay,1000.0,2024-01-23,9%,Retail,Post-IPO,$1200
+"United States","SF Bay Area",eBay,500.0,2023-02-07,4%,Retail,Post-IPO,$1200
+Israel,"Tel Aviv",eBay,20.0,2023-12-17,,Retail,Post-IPO,$1200
+Israel,"Tel Aviv",eBay,20.0,2025-02-26,,Retail,Post-IPO,$1200
+Israel,"Tel Aviv",eBay,200.0,2025-05-28,,Retail,Post-IPO,$1200
+Canada,Toronto,Ecobee,47.0,2020-03-26,10%,Energy,"Series C",$149
+"United States","New York City","Eden / Managed By Q",40.0,2020-04-08,40%,"Real Estate","Series B",$40
+"United States",Phoenix,Edgio,134.0,2023-06-06,12%,Infrastructure,Post-IPO,$462
+"United States",Phoenix,Edgio,80.0,2024-03-04,10%,Infrastructure,Post-IPO,$462
+"United States",Phoenix,Edgio,95.0,2022-12-13,10%,Infrastructure,Post-IPO,$462
+"United States",Seattle,Edifecs,30.0,2023-01-20,,Healthcare,Unknown,$1
+"United States",Boston,"Editas Medicine",,2023-01-09,20%,Healthcare,Post-IPO,$656
+"United States","SF Bay Area",Edmodo,,2022-08-16,100%,Education,Acquired,$77
+Germany,Munich,eGym,100.0,2020-04-02,25%,Fitness,"Series D",$109
+"United States",Seattle,"Eigen Labs",29.0,2025-07-08,25%,Crypto,Unknown,$234
+"United States","New York City","Eight Sleep",,2020-03-23,20%,Retail,"Series C",$70
+"United States","SF Bay Area","Eightfold AI",90.0,2023-02-03,15%,HR,"Series E",$396
+"United States","SF Bay Area",Ejento,84.0,2020-03-19,100%,Recruiting,Unknown,
+"United States","SF Bay Area",Elastic,,2022-11-30,13%,Data,Post-IPO,$162
+"United States","New York City",Electric,141.0,2023-02-13,25%,Other,"Series D",$212
+"United States","New York City",Electric,81.0,2022-08-30,,Other,"Series D",$212
+Israel,"Tel Aviv","Electriq Global",,2025-02-21,100%,Energy,Unknown,$8
+"United States","Baton Rouge","Electronic Arts",200.0,2023-02-28,,Consumer,Post-IPO,$2
+"United States","SF Bay Area","Electronic Arts",300.0,2025-04-29,,Consumer,Post-IPO,$2
+"United States","SF Bay Area","Electronic Arts",670.0,2024-02-28,5%,Consumer,Post-IPO,$2
+"United States","SF Bay Area","Electronic Arts",780.0,2023-03-29,6%,Consumer,Post-IPO,$2
+"United Kingdom",London,Element,,2022-12-25,15%,Other,"Series B",$96
+Canada,Montreal,"Element AI",62.0,2020-05-04,15%,Other,"Series B",$257
+"United States","SF Bay Area","Element Analytics",10.0,2020-03-25,,Data,"Series A",$22
+Israel,"Tel Aviv",Elementor,60.0,2022-06-15,15%,Media,Unknown,$65
+Germany,Berlin,Elinvar,43.0,2022-10-21,33%,Finance,Unknown,$30
+"United Kingdom",London,Elliptic,,2020-04-09,30%,Crypto,"Series B",$40
+"United States","SF Bay Area","Embark Trucks",230.0,2023-03-03,70%,Transportation,Post-IPO,$317
+"United States",Boston,"Embark Vet",28.0,2023-04-28,,Healthcare,"Series B",$94
+"United States",Boston,"Embark Vet",41.0,2023-01-11,,Healthcare,"Series B",$94
+"United States","SF Bay Area",Embroker,30.0,2022-10-25,12%,Finance,"Series C",$142
+Germany,Frankfurt,"Emma Sleep",200.0,2024-06-19,18%,Retail,Acquired,
+"United States","Los Angeles",Emotive,30.0,2022-07-07,18%,Marketing,"Series B",$78
+"United States","New York City","EMX Digital",100.0,2023-02-13,100%,Marketing,Unknown,
+"United States",Fayetteville,"Engine eCommerce",,2020-06-28,100%,Retail,Unknown,$4
+Brazil,"Sao Paulo",Enjoei,31.0,2023-01-20,10%,Retail,Unknown,$14
+"United States","SF Bay Area",Enjoy,400.0,2022-06-30,18%,Retail,Post-IPO,$310
+"United States","SF Bay Area",Enovix,170.0,2024-05-06,33%,Energy,Post-IPO,$516
+"United States","SF Bay Area",Enovix,185.0,2023-10-05,,Energy,Post-IPO,$516
+"United States","SF Bay Area","Enphase Energy",350.0,2023-12-18,10%,Energy,Post-IPO,$116
+"United States","SF Bay Area","Enphase Energy",500.0,2024-11-11,17%,Energy,Post-IPO,$116
+Australia,Melbourne,Envato,100.0,2022-06-02,,Marketing,Unknown,
+"United States","SF Bay Area",Envoy,58.0,2020-04-14,30%,HR,"Series B",$59
+"United States",Raleigh,"Epic Games",870.0,2023-09-28,16%,Consumer,Unknown,$6400
+France,Paris,Epicery,,2024-12-31,100%,Food,Acquired,$7
+"United States",Boston,EQRx,,2023-02-24,18%,Healthcare,Post-IPO,$1900
+"United States","SF Bay Area",Equitybee,24.0,2023-02-08,25%,Finance,"Series B",$85
+"United States","SF Bay Area",Equitybee,25.0,2022-10-31,20%,Finance,"Series B",$85
+"United States","New York City",EquityZen,30.0,2022-10-31,27%,Finance,"Series B",$11
+Sweden,Stockholm,Ericsson,8500.0,2023-02-24,8%,Other,Post-IPO,$663
+"United States","SF Bay Area",Ermetic,30.0,2023-01-23,17%,Security,"Series B",$97
+"New Zealand",Auckland,Eroad,200.0,2023-07-28,31%,Transportation,Unknown,$46
+India,Mumbai,Eruditus,40.0,2022-06-04,,Education,"Series E",$1200
+"United States",Seattle,Esper,,2023-01-10,21%,Other,"Series A",$10
+"United States",Seattle,Esper,,2022-06-23,12%,Other,"Series A",$10
+Argentina,"Buenos Aires",Etermax,40.0,2022-11-30,,Other,Unknown,
+"United States","SF Bay Area","Ethos Life",18.0,2020-06-05,14%,Finance,"Series C",$106
+"United States","SF Bay Area","Ethos Life",40.0,2022-06-24,12%,Finance,"Series D",$406
+"United States","SF Bay Area","Ethos Life",50.0,2023-02-21,,Finance,"Series D",$406
+Israel,"Tel Aviv",eToro,100.0,2022-07-05,6%,Finance,Unknown,$322
+"United States","New York City",Etsy,225.0,2023-12-13,11%,Retail,Post-IPO,$97
+Australia,Sydney,Eucalyptus,50.0,2022-07-22,20%,Healthcare,"Series C",$69
+India,"New Delhi","Euler Motors",,2023-04-11,10%,Transportation,"Series C",$92
+Estonia,Tallinn,Eurora,111.0,2023-09-11,,Other,"Series A",$42
+"United States","SF Bay Area",Eventbrite,100.0,2024-08-07,11%,Consumer,Post-IPO,$557
+"United States","SF Bay Area",Eventbrite,500.0,2020-04-08,45%,Consumer,Post-IPO,$332
+"United States","SF Bay Area",Eventbrite,80.0,2023-02-28,8%,Consumer,Post-IPO,$557
+"United States",Austin,Eventus,,2023-05-05,33%,Finance,"Series B",$45
+"United States",Boston,EverBridge,200.0,2022-11-08,,Other,Post-IPO,$476
+Israel,"Tel Aviv",EverC,16.0,2024-07-17,10%,Security,Unknown,$61
+"United States","SF Bay Area",Everlane,227.0,2020-03-27,,Retail,Unknown,$18
+"United States","SF Bay Area",Everlane,30.0,2023-01-05,17%,Retail,Unknown,$176
+"United States","SF Bay Area",Everlaw,,2023-05-12,10%,Legal,"Series D",$298
+Australia,Brisbane,Everledger,,2023-05-08,100%,Crypto,Unknown,$27
+"United States","SF Bay Area",Evernote,129.0,2023-02-17,,Consumer,Acquired,$290
+"United States",Evansville,Everquote,100.0,2023-07-11,,Finance,Post-IPO,$53
+Israel,"Tel Aviv",Everybuddy,,2024-02-13,100%,Consumer,"Series A",$15
+"United States","Los Angeles",EVgo,40.0,2023-02-23,,Transportation,Post-IPO,$400
