@@ -10,4 +10,8 @@
 - Tableau Public
 
 # APPROACH
--
+- Determine basic statistics like the maximum, minimum and average laid off for the whole dataset, by country and by City for the United states to better understand the distribution of the dataset.
+- Determine the total laid off by company
+
+# KEY FINDINGS
+- `Intel` had the highest number of lay_offs at `43,115` while `705` out of the total `1000` companies did not layoff anyone.
