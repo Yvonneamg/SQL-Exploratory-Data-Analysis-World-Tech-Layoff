@@ -15,3 +15,7 @@
 
 # KEY FINDINGS
 - `Intel` had the highest number of lay_offs at `43,115` while `705` out of the total `1000` companies did not layoff anyone.
+
+# HOW TO RUN
+- Open the MySQL workbench and create a new SQL tab for executing queries.
+- Execute the following [SQL Queries]().
