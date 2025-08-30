@@ -1,2 +1,12 @@
 # SQL-Exploratory-Data-Analysis-World-Tech-Layoff
-This repository explores the world Tech Layoff dataset and tries to identify trends and patterns
+- This repository explores the world Tech Layoff dataset and tries to identify trends and patterns.
+
+# Data
+- The dataset for this exercise is the cleaned dataset from the SQL data cleaning project which can be obtained [here](Cleaned%20dataset.csv)
+- The dataset has `9 Columns` and `1001 Rows`.
+
+# TOOLS
+- MySQL
+- Tableau Public
+
+# APPROACH
