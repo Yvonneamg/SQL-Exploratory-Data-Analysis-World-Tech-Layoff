@@ -18,4 +18,4 @@
 
 # HOW TO RUN
 - Open the MySQL workbench and create a new SQL tab for executing queries.
-- Execute the following [SQL Queries]().
+- Execute the following [SQL Queries](SQL-Exploratory-Data-Analysis-World-Tech-Layoff.sql).
