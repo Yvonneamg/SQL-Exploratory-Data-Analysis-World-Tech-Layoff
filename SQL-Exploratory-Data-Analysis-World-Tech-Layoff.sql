@@ -82,5 +82,21 @@ from layoff_staging2
 group by country,CITY,company,industry
 order by Total_Laid_Off desc;
 
-select * from layoff_staging2;
+-- Determine date range
+select min(`date`) min_date,max(`date`) max_date
+from layoff_staging2;
+
+-- Determine the total laid off by year
+select substring(`date`,1,4) as year,
+sum(total_laid_off) Total_Laid_Off
+from layoff_staging2
+group by `year`
+order by 1;
+
+-- Determine the total laid off by month
+select substring(`date`,6,2) as `month`,
+sum(total_laid_off) as Total_Laid_Off
+from layoff_staging2
+group by `month`
+order by 2;
 
