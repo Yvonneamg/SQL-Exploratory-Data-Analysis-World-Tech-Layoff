@@ -98,5 +98,73 @@ select substring(`date`,6,2) as `month`,
 sum(total_laid_off) as Total_Laid_Off
 from layoff_staging2
 group by `month`
-order by 2;
+order by 2 desc;
+
+-- Add columns Year month and date
+Alter table layoff_staging2
+add column Month date;
+Alter table layoff_staging2
+add column Year date;
+Alter table layoff_staging2
+add column day date;
+alter table layoff_staging2
+modify column `Year`date
+after `date`;
+alter table layoff_staging2
+modify column `Month`date
+after `Year`;
+alter table layoff_staging2
+modify column `day`date
+after `Month`;
+ALTER TABLE layoff_staging2
+MODIFY column `Year` int;
+update layoff_staging2
+set `Year`=substring(`date`,1,4);
+ALTER TABLE layoff_staging2
+MODIFY column `Month` int;
+update layoff_staging2
+set `Month`=substring(`date`,6,2);
+ALTER TABLE layoff_staging2
+MODIFY column `day` int;
+update layoff_staging2
+set `day`=substring(`date`,9,2);
+
+-- Determine the fundsraised by month, by industry,by company and by year
+select `Year`,
+sum(Fundsraised2) Total_Funds_Raised
+from layoff_staging2
+group by `Year`
+order by 2 desc;
+
+select `Month`,
+sum(Fundsraised2) Total_Funds_Raised
+from layoff_staging2
+group by `Month`
+order by 2 desc;
+
+select industry,
+sum(Fundsraised2) Total_Funds_Raised
+from layoff_staging2
+group by industry
+order by 2 desc;
+
+select company,
+sum(Fundsraised2) Total_Funds_Raised
+from layoff_staging2
+group by company
+order by 2 asc;
+-- Companies that did not raise any funds
+select company,
+sum(Fundsraised2) Total_Funds_Raised
+from layoff_staging2
+WHERE Fundsraised2=0
+group by company;
+
+-- Companies in the transport industry
+select company,
+sum(Fundsraised2) Total_Funds_Raised
+from layoff_staging2
+WHERE industry='Transportation'
+group by company
+order by 2 desc;
 
