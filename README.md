@@ -15,6 +15,7 @@
 - Determine the top 5 companies by total funds raised in general and in the Us only.
 - Explore the date range of the layoffs.
 - Explore the total laid off per year and per month.
+- Determine the fundsraised by month, by industry,by company and by year
 
 # KEY FINDINGS
 - `Intel` had the highest number of lay_offs at `43,115` while `705` out of the total `1000` companies did not layoff anyone.
@@ -22,6 +23,7 @@
 - The layoffs happened between 11th March 2025 and 15th August 2025. This could be attributed to the onset of Covid19 in 2020.
 - The year `2023` has the highest number of layoffs at `264,220` while `2021` has the lowest number of layoffs at `15,823`.
 - The month of `January` has the highest number of layoffs at `133,661` while `September` has the least at `15,394`.
+- The highest funds raised was in 2022 a total sum of `1,015,409`.The month of June had the highest total funds raised at `401,927`.Transportation as industry raised the highest funds at `551,546` while recruiting raised the lowest funds at `4,077`. There are two data points in the dataset whose industry is not possible to determine however the two raised an insiginificant amount at `51`. Netflix had the highest total funds raised at `487,600`. A total of `318` companies did not raise any funds.
 
 # HOW TO RUN
 - Open the MySQL workbench and create a new SQL tab for executing queries.
