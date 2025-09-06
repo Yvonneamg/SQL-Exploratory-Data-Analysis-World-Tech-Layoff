@@ -195,4 +195,21 @@ total_laid_off,
 sum(total_laid_off) OVER (order by Month2) as Rolling_Sum
 from Rolling_Total;
 
+-- Determine the top 5 total laid off per company per year 
+with company_year(company,years,totallayoff) as(
+select company,
+year(`date`),
+sum(total_laid_off) 
+from layoff_staging2
+group by company, year(`date`)
+), company_rank as(
+select *, dense_rank() over (partition by years order by totallayoff desc) Ranking
+from company_year
+)
+select * from company_rank
+where ranking<=5;
+
+
+
+
 
