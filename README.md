@@ -19,6 +19,7 @@
 - Determine the total laid off by stage,determine the company in the Post IPO stage with the highest number of layoffs.
 - Determine the rolling totals for each month and year of the total laid off.
 - Create a rolling sum month by month using a CTE.
+- Determine the top 5 total laid off per company per year.
 
 # KEY FINDINGS
 - `Intel` had the highest number of lay_offs at `43,115` while `705` out of the total `1000` companies did not layoff anyone.
