@@ -33,3 +33,4 @@
 # HOW TO RUN
 - Open the MySQL workbench and create a new SQL tab for executing queries.
 - Execute the following [SQL Queries](SQL-Exploratory-Data-Analysis-World-Tech-Layoff.sql).
+- See the Tableau Dashboard [here](https://public.tableau.com/newWorkbook/6fe61409-ee31-4a89-95dd-aa920cd82a04#1)
