@@ -184,5 +184,15 @@ where stage='Post-IPO'
 group by company,stage
 order by Total_Laid_Off desc;
 
-select * from layoff_staging2;
+-- Create a rolling sum month by month using a CTE
+with Rolling_Total as(
+select substring(`date`,1,7) Month2,
+sum(total_laid_off) total_laid_off
+from layoff_staging2
+group by Month2)
+select Month2,
+total_laid_off,
+sum(total_laid_off) OVER (order by Month2) as Rolling_Sum
+from Rolling_Total;
+
 
