@@ -168,3 +168,21 @@ WHERE industry='Transportation'
 group by company
 order by 2 desc;
 
+-- Determine the total laid off by stage
+select stage,
+sum(total_laid_off) Total_Laid_Off
+from layoff_staging2
+group by stage
+order by Total_Laid_Off desc;
+
+-- Determine the company in the Post IPO stage with the highest number of layoffs
+select company,
+stage,
+sum(total_laid_off) Total_Laid_Off
+from layoff_staging2
+where stage='Post-IPO'
+group by company,stage
+order by Total_Laid_Off desc;
+
+select * from layoff_staging2;
+
